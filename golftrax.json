@@ -1,191 +1,55 @@
-[
-  {
-    "rank": 1,
-    "name": "Brian Harman",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 2,
-    "name": "Andrew Novak",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 3,
-    "name": "Sami Valimaki",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 4,
-    "name": "Chris Kirk",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 5,
-    "name": "Rasmus Hojgaard",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 6,
-    "name": "Emiliano Grillo",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 7,
-    "name": "Kevin Yu",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 8,
-    "name": "Davis Thompson",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 9,
-    "name": "Christiaan Bezuidenhout",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 10,
-    "name": "Alex Noren",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 11,
-    "name": "Adam Scott",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 12,
-    "name": "Max McGreevy",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 13,
-    "name": "Alex Smalley",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 14,
-    "name": "Vincent Whaley",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 15,
-    "name": "Bud Cauley",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 16,
-    "name": "Stephan Jaeger",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 17,
-    "name": "Aldrich Potgieter",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 18,
-    "name": "Luke Clanton",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 19,
-    "name": "Lucas Glover",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 20,
-    "name": "Jesper Svensson",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 21,
-    "name": "Adrien Dumont de Chassart",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 22,
-    "name": "Nick Dunlap",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 23,
-    "name": "Kevin Roy",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 24,
-    "name": "Adam Svensson",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 25,
-    "name": "Seamus Power",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 26,
-    "name": "Sudarshan Yellamaraju",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  },
-  {
-    "rank": 27,
-    "name": "Johnny Keefer",
-    "avg": 69.5,
-    "bir": 4.0,
-    "bog": 2.0
-  }
-]
+{
+    "updated": "2026-01-25",
+    "players": [
+        { "name": "Scottie Scheffler", "rank": 1, "avg": 68.3, "bir": 4.5, "bog": 1.8 },
+        { "name": "Rory McIlroy", "rank": 2, "avg": 68.7, "bir": 4.4, "bog": 2.1 },
+        { "name": "Xander Schauffele", "rank": 3, "avg": 69.1, "bir": 4.2, "bog": 2.0 },
+        { "name": "Ludvig Aberg", "rank": 4, "avg": 69.0, "bir": 4.3, "bog": 1.9 },
+        { "name": "Wyndham Clark", "rank": 5, "avg": 69.4, "bir": 4.1, "bog": 2.2 },
+        { "name": "Viktor Hovland", "rank": 6, "avg": 69.2, "bir": 4.2, "bog": 2.1 },
+        { "name": "Patrick Cantlay", "rank": 7, "avg": 69.5, "bir": 4.0, "bog": 2.0 },
+        { "name": "Collin Morikawa", "rank": 8, "avg": 69.6, "bir": 4.1, "bog": 2.1 },
+        { "name": "Max Homa", "rank": 9, "avg": 69.7, "bir": 4.0, "bog": 2.3 },
+        { "name": "Sahith Theegala", "rank": 11, "avg": 69.8, "bir": 4.4, "bog": 2.5 },
+        { "name": "Tommy Fleetwood", "rank": 12, "avg": 69.9, "bir": 3.9, "bog": 2.0 },
+        { "name": "Keegan Bradley", "rank": 13, "avg": 70.0, "bir": 3.8, "bog": 2.1 },
+        { "name": "Russell Henley", "rank": 14, "avg": 69.8, "bir": 3.7, "bog": 1.8 },
+        { "name": "Matt Fitzpatrick", "rank": 15, "avg": 70.1, "bir": 3.9, "bog": 2.2 },
+        { "name": "Hideki Matsuyama", "rank": 16, "avg": 70.2, "bir": 4.0, "bog": 2.3 },
+        { "name": "Tyrrell Hatton", "rank": 17, "avg": 69.9, "bir": 4.1, "bog": 2.4 },
+        { "name": "Jordan Spieth", "rank": 18, "avg": 70.3, "bir": 4.2, "bog": 2.6 },
+        { "name": "Sam Burns", "rank": 19, "avg": 70.0, "bir": 4.1, "bog": 2.3 },
+        { "name": "Jason Day", "rank": 20, "avg": 70.1, "bir": 3.9, "bog": 2.2 },
+        { "name": "Tom Kim", "rank": 21, "avg": 70.2, "bir": 3.8, "bog": 2.1 },
+        { "name": "Tony Finau", "rank": 22, "avg": 70.0, "bir": 4.0, "bog": 2.2 },
+        { "name": "Brian Harman", "rank": 22, "avg": 70.8, "bir": 3.9, "bog": 2.2 },
+        { "name": "Sepp Straka", "rank": 23, "avg": 70.3, "bir": 3.7, "bog": 2.1 },
+        { "name": "Cameron Young", "rank": 24, "avg": 70.2, "bir": 4.0, "bog": 2.3 },
+        { "name": "Andrew Novak", "rank": 32, "avg": 70.4, "bir": 3.7, "bog": 2.1 },
+        { "name": "Sami Valimaki", "rank": 39, "avg": 69.6, "bir": 4.1, "bog": 2.5 },
+        { "name": "Rasmus Hojgaard", "rank": 40, "avg": 69.8, "bir": 3.9, "bog": 2.3 },
+        { "name": "Chris Kirk", "rank": 41, "avg": 70.1, "bir": 3.8, "bog": 1.9 },
+        { "name": "Christiaan Bezuidenhout", "rank": 47, "avg": 70.1, "bir": 3.5, "bog": 1.8 },
+        { "name": "Adam Scott", "rank": 48, "avg": 70.4, "bir": 3.5, "bog": 1.7 },
+        { "name": "Emiliano Grillo", "rank": 52, "avg": 69.8, "bir": 3.9, "bog": 2.0 },
+        { "name": "Alex Noren", "rank": 58, "avg": 69.8, "bir": 4.0, "bog": 1.9 },
+        { "name": "Stephan Jaeger", "rank": 61, "avg": 69.9, "bir": 3.9, "bog": 2.1 },
+        { "name": "Lucas Glover", "rank": 64, "avg": 62.0, "bir": 5.5, "bog": 1.2 },
+        { "name": "Nick Dunlap", "rank": 67, "avg": 70.1, "bir": 3.8, "bog": 2.0 },
+        { "name": "Bud Cauley", "rank": 69, "avg": 69.3, "bir": 3.6, "bog": 1.9 },
+        { "name": "Adam Svensson", "rank": 79, "avg": 68.5, "bir": 4.9, "bog": 2.7 },
+        { "name": "Seamus Power", "rank": 96, "avg": 69.5, "bir": 4.8, "bog": 2.4 },
+        { "name": "Davis Thompson", "rank": 104, "avg": 69.6, "bir": 3.8, "bog": 2.0 },
+        { "name": "Jesper Svensson", "rank": 105, "avg": 70.1, "bir": 3.7, "bog": 2.4 },
+        { "name": "Kevin Yu", "rank": 113, "avg": 69.9, "bir": 3.8, "bog": 2.1 },
+        { "name": "Vincent Whaley", "rank": 166, "avg": 68.5, "bir": 4.9, "bog": 2.8 },
+        { "name": "Alex Smalley", "rank": 168, "avg": 69.9, "bir": 3.8, "bog": 2.2 },
+        { "name": "Adrien Dumont de Chassart", "rank": 230, "avg": 69.6, "bir": 4.1, "bog": 2.2 },
+        { "name": "Max McGreevy", "rank": 274, "avg": 70.2, "bir": 4.2, "bog": 2.3 },
+        { "name": "Kevin Roy", "rank": 291, "avg": 70.4, "bir": 3.5, "bog": 2.1 },
+        { "name": "Aldrich Potgieter", "rank": 395, "avg": 69.5, "bir": 4.8, "bog": 2.9 },
+        { "name": "Luke Clanton", "rank": 578, "avg": 68.5, "bir": 4.8, "bog": 2.6 },
+        { "name": "Sudarshan Yellamaraju", "rank": 1180, "avg": 68.5, "bir": 4.8, "bog": 2.6 },
+        { "name": "Johnny Keefer", "rank": 2767, "avg": 62.0, "bir": 5.5, "bog": 1.1 }
+    ]
+}
