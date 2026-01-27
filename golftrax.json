@@ -19,6 +19,7 @@
         { "name": "Max McGreevy", "rank": 97, "form": "+1.5", "cut": "20%", "bir": 3.9, "bog": 2.8, "dbl": 0.6, "tpl": 0.2, "par5": "50%" },
         { "name": "Brian Harman", "rank": 36, "form": "-0.5", "cut": "25%", "bir": 3.5, "bog": 1.8, "dbl": 0.1, "tpl": 0.0, "par5": "48%" },
         
+		{ "name": "Sepp Straka", "rank": 12, "form": "+1.5", "cut": "15%", "bir": 4.3, "bog": 2.1, "dbl": 0.3, "tpl": 0.1, "par5": "52%" }
         { "name": "Matt Fitzpatrick", "rank": 22, "form": "+1.5", "cut": "10%", "bir": 4.0, "bog": 2.0, "dbl": 0.2, "tpl": 0.0, "par5": "50%" },
         { "name": "Tony Finau", "rank": 26, "form": "+1.2", "cut": "8%", "bir": 4.1, "bog": 1.9, "dbl": 0.2, "tpl": 0.1, "par5": "56%" },
         { "name": "Justin Rose", "rank": 10, "form": "+1.1", "cut": "10%", "bir": 3.8, "bog": 1.8, "dbl": 0.2, "tpl": 0.0, "par5": "49%" },
