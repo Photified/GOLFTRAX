@@ -1,15 +1,21 @@
 {
-  "updated": "2026-01-29",
+  "updated": "2026-02-01",
   "meta": {
     "course": "TPC Scottsdale",
-    "notes": "WM Phoenix Open - Full Field Risk Analysis"
+    "notes": "WM Phoenix Open - Course Fit: Bombers & Ball Strikers. High correlation to SG:OTT & Driving Distance.",
+    "last_event": {
+      "name": "Farmers Insurance Open",
+      "winner": "Justin Rose (-23)",
+      "date": "Feb 1, 2026",
+      "details": "Rose wins by 7 shots (Tournament Record). T2: Si Woo Kim, Pierceson Coody, Ryo Hisatsune (-16)."
+    }
   },
   "players": [
     {
       "name": "Scottie Scheffler", "rank": 1, "course_sg": 2.74,
       "stats": {
-        "24": { "sg_app": 1.189, "sg_ott": 1.452, "sg_put": 1.542, "sg_arg": 1.208, "bob_pct": 34.4, "bogey_pct": 10.1 },
-        "12": { "sg_app": 2.100, "sg_ott": 1.600, "sg_put": 1.200, "sg_arg": 1.000, "bob_pct": 36.0, "bogey_pct": 9.5 },
+        "24": { "sg_app": 2.100, "sg_ott": 1.452, "sg_put": 1.542, "sg_arg": 1.208, "bob_pct": 44.4, "bogey_pct": 9.1 },
+        "12": { "sg_app": 2.300, "sg_ott": 1.600, "sg_put": 1.200, "sg_arg": 1.000, "bob_pct": 38.0, "bogey_pct": 8.5 },
         "4":  { "sg_app": 2.850, "sg_ott": 1.900, "sg_put": 0.500, "sg_arg": 1.100, "bob_pct": 40.0, "bogey_pct": 8.0 }
       }
     },
@@ -17,8 +23,8 @@
       "name": "Rory McIlroy", "rank": 2, "course_sg": 2.11,
       "stats": {
         "24": { "sg_app": 0.600, "sg_ott": 1.100, "sg_put": 0.085, "sg_arg": 0.801, "bob_pct": 26.2, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.400, "sg_ott": 1.200, "sg_put": 0.100, "sg_arg": 0.500, "bob_pct": 25.5, "bogey_pct": 16.0 },
-        "4":  { "sg_app": 0.200, "sg_ott": 1.300, "sg_put": -0.500, "sg_arg": 0.200, "bob_pct": 24.0, "bogey_pct": 17.5 }
+        "12": { "sg_app": 0.500, "sg_ott": 1.200, "sg_put": 0.100, "sg_arg": 0.500, "bob_pct": 26.5, "bogey_pct": 15.0 },
+        "4":  { "sg_app": 0.400, "sg_ott": 1.300, "sg_put": -0.500, "sg_arg": 0.200, "bob_pct": 25.0, "bogey_pct": 16.5 }
       }
     },
     {
@@ -80,9 +86,9 @@
     {
       "name": "Justin Rose", "rank": 10, "course_sg": 1.20,
       "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 0.200, "sg_put": 0.400, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.600, "sg_ott": 0.300, "sg_put": 0.500, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 13.5 }
+        "24": { "sg_app": 1.500, "sg_ott": 0.800, "sg_put": 1.200, "sg_arg": 0.500, "bob_pct": 25.0, "bogey_pct": 11.0 },
+        "12": { "sg_app": 1.800, "sg_ott": 1.100, "sg_put": 2.800, "sg_arg": 0.600, "bob_pct": 28.5, "bogey_pct": 10.0 },
+        "4":  { "sg_app": 2.500, "sg_ott": 1.500, "sg_put": 3.000, "sg_arg": 1.000, "bob_pct": 32.0, "bogey_pct": 8.5 }
       }
     },
     {
@@ -244,7 +250,8 @@
         "12": { "sg_app": 0.500, "sg_ott": 1.550, "sg_put": -0.900, "sg_arg": 0.800, "bob_pct": 22.5, "bogey_pct": 17.8 },
         "4":  { "sg_app": 0.600, "sg_ott": 1.700, "sg_put": -0.700, "sg_arg": 0.900, "bob_pct": 24.0, "bogey_pct": 17.0 }
       }
-    },
+    }
+	,
     {
       "name": "Bryson DeChambeau", "rank": 31, "course_sg": 1.20,
       "stats": {
@@ -298,7 +305,7 @@
       "stats": {
         "24": { "sg_app": 0.828, "sg_ott": -0.258, "sg_put": 1.692, "sg_arg": 0.193, "bob_pct": 20.5, "bogey_pct": 13.2 },
         "12": { "sg_app": 0.900, "sg_ott": -0.200, "sg_put": 1.750, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 13.0 },
-        "4":  { "sg_app": 1.000, "sg_ott": -0.100, "sg_put": 1.900, "sg_arg": 0.350, "bob_pct": 22.0, "bogey_pct": 12.5 }
+        "4":  { "sg_app": 1.500, "sg_ott": 0.200, "sg_put": 2.200, "sg_arg": 0.550, "bob_pct": 24.0, "bogey_pct": 11.5 }
       }
     },
     {
@@ -634,7 +641,7 @@
       "stats": {
         "24": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 21.0, "bogey_pct": 15.5 },
         "12": { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 14.5 }
+        "4":  { "sg_app": 1.250, "sg_ott": 0.850, "sg_put": 1.550, "sg_arg": 0.500, "bob_pct": 24.5, "bogey_pct": 13.5 }
       }
     },
     {
@@ -1029,5 +1036,5 @@
         "4":  { "sg_app": 1.050, "sg_ott": 0.850, "sg_put": -0.150, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 13.5 }
       }
     }
-    ]
+  ]
 }
