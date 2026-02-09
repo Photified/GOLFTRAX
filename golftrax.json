@@ -1,747 +1,458 @@
 {
-  "updated": "2026-02-01",
+  "updated": "2026-02-09",
   "meta": {
-    "course": "TPC Scottsdale",
-    "notes": "WM Phoenix Open - Course Fit: Bombers & Ball Strikers. High correlation to SG:OTT & Driving Distance.",
+    "course": "AT&T Pebble Beach Pro-Am",
+    "notes": "Signature Event. Course Fit: Second Shot Course. Smallest greens on Tour (~3,500 sq ft) place premium on SG: Approach and Scrambling. Distance less critical than usual. Poa Annua greens increase putting variance.",
     "last_event": {
-      "name": "Farmers Insurance Open",
-      "winner": "Justin Rose (-23)",
-      "date": "Feb 1, 2026",
-      "details": "Rose wins by 7 shots (Tournament Record). T2: Si Woo Kim, Pierceson Coody, Ryo Hisatsune (-16)."
+      "name": "WM Phoenix Open",
+      "winner": "Chris Gotterup (-16, Playoff)",
+      "date": "Feb 8, 2026",
+      "details": "Gotterup defeats Matsuyama on 1st playoff hole. T3: Scheffler, Bhatia, S.W. Kim, N. Hojgaard (-15)."
     }
   },
   "players": [
     {
-      "name": "Scottie Scheffler", "rank": 1, "course_sg": 2.74,
+      "name": "Scottie Scheffler", "rank": 1, "course_sg": 1.85,
       "stats": {
-        "24": { "sg_app": 2.100, "sg_ott": 1.452, "sg_put": 1.542, "sg_arg": 1.208, "bob_pct": 44.4, "bogey_pct": 9.1 },
-        "12": { "sg_app": 2.300, "sg_ott": 1.600, "sg_put": 1.200, "sg_arg": 1.000, "bob_pct": 38.0, "bogey_pct": 8.5 },
-        "4":  { "sg_app": 2.850, "sg_ott": 1.900, "sg_put": 0.500, "sg_arg": 1.100, "bob_pct": 40.0, "bogey_pct": 8.0 }
+        "24": { "sg_app": 2.850, "sg_ott": 1.450, "sg_put": 0.850, "sg_arg": 1.100, "bob_pct": 28.5, "bogey_pct": 8.5 },
+        "12": { "sg_app": 2.900, "sg_ott": 1.500, "sg_put": 0.900, "sg_arg": 1.200, "bob_pct": 29.0, "bogey_pct": 8.0 },
+        "4":  { "sg_app": 3.100, "sg_ott": 1.600, "sg_put": 0.500, "sg_arg": 1.300, "bob_pct": 30.5, "bogey_pct": 7.5 }
       }
     },
     {
-      "name": "Rory McIlroy", "rank": 2, "course_sg": 2.11,
+      "name": "Rory McIlroy", "rank": 2, "course_sg": 2.45,
       "stats": {
-        "24": { "sg_app": 0.600, "sg_ott": 1.100, "sg_put": 0.085, "sg_arg": 0.801, "bob_pct": 26.2, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.500, "sg_ott": 1.200, "sg_put": 0.100, "sg_arg": 0.500, "bob_pct": 26.5, "bogey_pct": 15.0 },
-        "4":  { "sg_app": 0.400, "sg_ott": 1.300, "sg_put": -0.500, "sg_arg": 0.200, "bob_pct": 25.0, "bogey_pct": 16.5 }
+        "24": { "sg_app": 1.100, "sg_ott": 1.600, "sg_put": 0.500, "sg_arg": 0.600, "bob_pct": 26.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 1.200, "sg_ott": 1.700, "sg_put": 0.600, "sg_arg": 0.700, "bob_pct": 27.0, "bogey_pct": 13.5 },
+        "4":  { "sg_app": 1.300, "sg_ott": 1.800, "sg_put": 0.800, "sg_arg": 0.800, "bob_pct": 28.5, "bogey_pct": 12.5 }
       }
     },
     {
-      "name": "Tommy Fleetwood", "rank": 3, "course_sg": 0.50,
+      "name": "Xander Schauffele", "rank": 3, "course_sg": 1.75,
       "stats": {
-        "24": { "sg_app": 0.990, "sg_ott": 0.507, "sg_put": 0.956, "sg_arg": 1.606, "bob_pct": 21.5, "bogey_pct": 12.8 },
-        "12": { "sg_app": 1.100, "sg_ott": 0.550, "sg_put": 0.800, "sg_arg": 1.400, "bob_pct": 22.0, "bogey_pct": 12.5 },
-        "4":  { "sg_app": 1.200, "sg_ott": 0.600, "sg_put": 1.100, "sg_arg": 1.200, "bob_pct": 23.5, "bogey_pct": 11.5 }
+        "24": { "sg_app": 1.100, "sg_ott": 1.000, "sg_put": 0.600, "sg_arg": 0.500, "bob_pct": 24.5, "bogey_pct": 11.0 },
+        "12": { "sg_app": 1.200, "sg_ott": 1.050, "sg_put": 0.650, "sg_arg": 0.550, "bob_pct": 25.0, "bogey_pct": 10.8 },
+        "4":  { "sg_app": 1.100, "sg_ott": 1.100, "sg_put": 0.500, "sg_arg": 0.600, "bob_pct": 24.0, "bogey_pct": 11.5 }
       }
     },
     {
-      "name": "Russell Henley", "rank": 4, "course_sg": 0.50,
+      "name": "Ludvig Aberg", "rank": 4, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": 0.850, "sg_ott": 0.300, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 21.2, "bogey_pct": 11.5 },
-        "12": { "sg_app": 0.900, "sg_ott": 0.350, "sg_put": 0.300, "sg_arg": 0.200, "bob_pct": 21.5, "bogey_pct": 11.2 },
-        "4":  { "sg_app": 1.000, "sg_ott": 0.400, "sg_put": 0.400, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 10.8 }
+        "24": { "sg_app": 1.100, "sg_ott": 1.400, "sg_put": 0.300, "sg_arg": 0.200, "bob_pct": 26.0, "bogey_pct": 12.5 },
+        "12": { "sg_app": 1.200, "sg_ott": 1.500, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 26.5, "bogey_pct": 12.2 },
+        "4":  { "sg_app": 1.300, "sg_ott": 1.600, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 27.5, "bogey_pct": 11.8 }
       }
     },
     {
-      "name": "Robert MacIntyre", "rank": 5, "course_sg": 0.00,
+      "name": "Viktor Hovland", "rank": 5, "course_sg": 1.20,
       "stats": {
-        "24": { "sg_app": 0.425, "sg_ott": 0.223, "sg_put": 0.706, "sg_arg": -0.049, "bob_pct": 23.0, "bogey_pct": 16.2 },
-        "12": { "sg_app": 0.500, "sg_ott": 0.300, "sg_put": 0.800, "sg_arg": 0.100, "bob_pct": 23.5, "bogey_pct": 15.8 },
-        "4":  { "sg_app": 0.600, "sg_ott": 0.400, "sg_put": 1.000, "sg_arg": 0.200, "bob_pct": 25.0, "bogey_pct": 15.0 }
+        "24": { "sg_app": 1.400, "sg_ott": 1.300, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 25.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 1.500, "sg_ott": 1.350, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 26.0, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 1.600, "sg_ott": 1.400, "sg_put": 0.400, "sg_arg": 0.250, "bob_pct": 27.0, "bogey_pct": 13.0 }
       }
     },
     {
-      "name": "Xander Schauffele", "rank": 6, "course_sg": 1.85,
+      "name": "Patrick Cantlay", "rank": 6, "course_sg": 1.95,
       "stats": {
-        "24": { "sg_app": 0.947, "sg_ott": 1.390, "sg_put": 0.344, "sg_arg": 0.518, "bob_pct": 24.1, "bogey_pct": 11.2 },
-        "12": { "sg_app": 1.000, "sg_ott": 1.350, "sg_put": 0.400, "sg_arg": 0.550, "bob_pct": 24.5, "bogey_pct": 11.0 },
-        "4":  { "sg_app": 0.800, "sg_ott": 1.200, "sg_put": 0.100, "sg_arg": 0.600, "bob_pct": 22.0, "bogey_pct": 12.5 }
+        "24": { "sg_app": 0.700, "sg_ott": 0.600, "sg_put": 0.800, "sg_arg": 0.900, "bob_pct": 23.5, "bogey_pct": 12.0 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.650, "sg_put": 0.850, "sg_arg": 0.950, "bob_pct": 24.0, "bogey_pct": 11.8 },
+        "4":  { "sg_app": 0.800, "sg_ott": 0.700, "sg_put": 0.900, "sg_arg": 1.000, "bob_pct": 24.5, "bogey_pct": 11.5 }
       }
     },
     {
-      "name": "J.J. Spaun", "rank": 7, "course_sg": 0.80,
+      "name": "Collin Morikawa", "rank": 7, "course_sg": 0.80,
       "stats": {
-        "24": { "sg_app": 0.773, "sg_ott": 0.719, "sg_put": 0.115, "sg_arg": -0.403, "bob_pct": 20.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.800, "sg_ott": 0.750, "sg_put": 0.150, "sg_arg": -0.300, "bob_pct": 20.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.900, "sg_ott": 0.800, "sg_put": 0.300, "sg_arg": -0.100, "bob_pct": 21.5, "bogey_pct": 13.8 }
+        "24": { "sg_app": 1.100, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 0.300, "bob_pct": 23.5, "bogey_pct": 12.0 },
+        "12": { "sg_app": 1.150, "sg_ott": 0.550, "sg_put": 0.150, "sg_arg": 0.350, "bob_pct": 24.0, "bogey_pct": 11.8 },
+        "4":  { "sg_app": 1.250, "sg_ott": 0.600, "sg_put": 0.200, "sg_arg": 0.400, "bob_pct": 25.0, "bogey_pct": 11.5 }
       }
     },
     {
-      "name": "Ben Griffin", "rank": 8, "course_sg": 0.30,
+      "name": "Wyndham Clark", "rank": 8, "course_sg": 2.10,
       "stats": {
-        "24": { "sg_app": 0.865, "sg_ott": 0.236, "sg_put": 1.132, "sg_arg": 0.222, "bob_pct": 22.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.900, "sg_ott": 0.250, "sg_put": 1.200, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 1.100, "sg_ott": 0.300, "sg_put": 1.400, "sg_arg": 0.400, "bob_pct": 24.0, "bogey_pct": 14.0 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.800, "sg_put": 0.500, "sg_arg": 0.300, "bob_pct": 23.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.850, "sg_put": 0.600, "sg_arg": 0.350, "bob_pct": 23.5, "bogey_pct": 15.0 },
+        "4":  { "sg_app": 0.500, "sg_ott": 0.900, "sg_put": 0.800, "sg_arg": 0.450, "bob_pct": 24.5, "bogey_pct": 14.0 }
       }
     },
     {
-      "name": "Justin Thomas", "rank": 9, "course_sg": 2.40,
+      "name": "Max Homa", "rank": 9, "course_sg": 1.65,
       "stats": {
-        "24": { "sg_app": 0.600, "sg_ott": 0.300, "sg_put": -0.100, "sg_arg": 0.600, "bob_pct": 22.5, "bogey_pct": 13.5 },
-        "12": { "sg_app": 0.800, "sg_ott": 0.350, "sg_put": 0.000, "sg_arg": 0.700, "bob_pct": 23.5, "bogey_pct": 13.0 },
-        "4":  { "sg_app": 1.200, "sg_ott": 0.500, "sg_put": 0.300, "sg_arg": 0.900, "bob_pct": 25.0, "bogey_pct": 12.0 }
+        "24": { "sg_app": 0.800, "sg_ott": 0.500, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 23.5, "bogey_pct": 13.8 },
+        "12": { "sg_app": 0.850, "sg_ott": 0.550, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 24.0, "bogey_pct": 13.5 },
+        "4":  { "sg_app": 0.600, "sg_ott": 0.400, "sg_put": 0.500, "sg_arg": 0.300, "bob_pct": 22.0, "bogey_pct": 14.5 }
       }
     },
     {
-      "name": "Justin Rose", "rank": 10, "course_sg": 1.20,
+      "name": "Hideki Matsuyama", "rank": 10, "course_sg": 1.60,
       "stats": {
-        "24": { "sg_app": 1.500, "sg_ott": 0.800, "sg_put": 1.200, "sg_arg": 0.500, "bob_pct": 25.0, "bogey_pct": 11.0 },
-        "12": { "sg_app": 1.800, "sg_ott": 1.100, "sg_put": 2.800, "sg_arg": 0.600, "bob_pct": 28.5, "bogey_pct": 10.0 },
-        "4":  { "sg_app": 2.500, "sg_ott": 1.500, "sg_put": 3.000, "sg_arg": 1.000, "bob_pct": 32.0, "bogey_pct": 8.5 }
+        "24": { "sg_app": 1.400, "sg_ott": 0.600, "sg_put": 0.300, "sg_arg": 1.100, "bob_pct": 23.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 1.600, "sg_ott": 0.650, "sg_put": 0.400, "sg_arg": 1.200, "bob_pct": 24.0, "bogey_pct": 13.0 },
+        "4":  { "sg_app": 1.900, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 1.400, "bob_pct": 25.5, "bogey_pct": 12.5 }
       }
     },
     {
-      "name": "Harris English", "rank": 11, "course_sg": 0.80,
+      "name": "Tommy Fleetwood", "rank": 11, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": 1.942, "sg_ott": 0.603, "sg_put": 0.185, "sg_arg": 0.225, "bob_pct": 21.0, "bogey_pct": 14.8 },
-        "12": { "sg_app": 1.500, "sg_ott": 0.550, "sg_put": 0.200, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.5 },
-        "4":  { "sg_app": -0.300, "sg_ott": 0.400, "sg_put": 0.100, "sg_arg": 0.300, "bob_pct": 20.0, "bogey_pct": 15.5 }
+        "24": { "sg_app": 1.000, "sg_ott": 0.600, "sg_put": 0.900, "sg_arg": 0.700, "bob_pct": 22.0, "bogey_pct": 12.5 },
+        "12": { "sg_app": 1.050, "sg_ott": 0.650, "sg_put": 0.950, "sg_arg": 0.750, "bob_pct": 22.5, "bogey_pct": 12.2 },
+        "4":  { "sg_app": 1.150, "sg_ott": 0.700, "sg_put": 1.000, "sg_arg": 0.800, "bob_pct": 23.5, "bogey_pct": 11.8 }
       }
     },
     {
-      "name": "Sepp Straka", "rank": 12, "course_sg": 3.40,
+      "name": "Sahith Theegala", "rank": 12, "course_sg": 0.70,
       "stats": {
-        "24": { "sg_app": 2.163, "sg_ott": 0.550, "sg_put": 0.100, "sg_arg": 0.000, "bob_pct": 24.0, "bogey_pct": 13.9 },
-        "12": { "sg_app": 2.200, "sg_ott": 0.600, "sg_put": 0.150, "sg_arg": 0.050, "bob_pct": 24.5, "bogey_pct": 13.5 },
-        "4":  { "sg_app": 2.500, "sg_ott": 0.700, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 26.0, "bogey_pct": 12.5 }
+        "24": { "sg_app": 0.500, "sg_ott": 0.500, "sg_put": 0.400, "sg_arg": 0.300, "bob_pct": 24.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.550, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 24.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.650, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 25.5, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "Alex Noren", "rank": 13, "course_sg": 0.90,
+      "name": "Justin Thomas", "rank": 13, "course_sg": 1.40,
       "stats": {
-        "24": { "sg_app": 1.200, "sg_ott": 0.048, "sg_put": 2.369, "sg_arg": 0.783, "bob_pct": 22.5, "bogey_pct": 12.2 },
-        "12": { "sg_app": 1.250, "sg_ott": 0.100, "sg_put": 2.000, "sg_arg": 0.800, "bob_pct": 23.0, "bogey_pct": 12.0 },
-        "4":  { "sg_app": 1.300, "sg_ott": 0.200, "sg_put": 1.500, "sg_arg": 0.850, "bob_pct": 24.0, "bogey_pct": 11.5 }
+        "24": { "sg_app": 0.800, "sg_ott": 0.400, "sg_put": 0.100, "sg_arg": 0.800, "bob_pct": 23.5, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.850, "sg_ott": 0.450, "sg_put": 0.150, "sg_arg": 0.850, "bob_pct": 24.0, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.950, "sg_ott": 0.500, "sg_put": 0.200, "sg_arg": 0.950, "bob_pct": 24.5, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "Viktor Hovland", "rank": 14, "course_sg": 0.40,
+      "name": "Keegan Bradley", "rank": 14, "course_sg": 0.85,
       "stats": {
-        "24": { "sg_app": 0.939, "sg_ott": 0.912, "sg_put": 0.173, "sg_arg": -0.320, "bob_pct": 24.8, "bogey_pct": 15.8 },
-        "12": { "sg_app": 1.000, "sg_ott": 0.950, "sg_put": 0.200, "sg_arg": -0.250, "bob_pct": 25.0, "bogey_pct": 15.5 },
-        "4":  { "sg_app": 1.200, "sg_ott": 1.100, "sg_put": 0.300, "sg_arg": -0.100, "bob_pct": 26.0, "bogey_pct": 14.5 }
+        "24": { "sg_app": 0.900, "sg_ott": 0.800, "sg_put": 0.300, "sg_arg": 0.200, "bob_pct": 22.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.950, "sg_ott": 0.850, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 1.050, "sg_ott": 0.950, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 23.5, "bogey_pct": 13.0 }
       }
     },
     {
-      "name": "Keegan Bradley", "rank": 15, "course_sg": 0.90,
+      "name": "Russell Henley", "rank": 15, "course_sg": 0.95,
       "stats": {
-        "24": { "sg_app": 1.213, "sg_ott": 2.563, "sg_put": -0.090, "sg_arg": 0.876, "bob_pct": 21.0, "bogey_pct": 15.1 },
-        "12": { "sg_app": 1.300, "sg_ott": 2.600, "sg_put": 0.000, "sg_arg": 0.900, "bob_pct": 21.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 1.500, "sg_ott": 2.800, "sg_put": 0.200, "sg_arg": 1.000, "bob_pct": 23.0, "bogey_pct": 14.0 }
+        "24": { "sg_app": 1.100, "sg_ott": 0.400, "sg_put": 0.600, "sg_arg": 0.300, "bob_pct": 21.5, "bogey_pct": 11.0 },
+        "12": { "sg_app": 1.150, "sg_ott": 0.450, "sg_put": 0.650, "sg_arg": 0.350, "bob_pct": 22.0, "bogey_pct": 10.8 },
+        "4":  { "sg_app": 1.250, "sg_ott": 0.500, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 10.5 }
       }
     },
     {
-      "name": "Hideki Matsuyama", "rank": 16, "course_sg": 2.10,
+      "name": "Chris Gotterup", "rank": 16, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": 0.750, "sg_ott": 0.400, "sg_put": -0.200, "sg_arg": 0.600, "bob_pct": 21.8, "bogey_pct": 14.2 },
-        "12": { "sg_app": 0.800, "sg_ott": 0.450, "sg_put": -0.150, "sg_arg": 0.650, "bob_pct": 22.0, "bogey_pct": 14.0 },
-        "4":  { "sg_app": 1.000, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 0.800, "bob_pct": 23.5, "bogey_pct": 13.0 }
+        "24": { "sg_app": 1.200, "sg_ott": 1.400, "sg_put": 0.900, "sg_arg": 0.400, "bob_pct": 27.5, "bogey_pct": 16.0 },
+        "12": { "sg_app": 1.500, "sg_ott": 1.600, "sg_put": 1.100, "sg_arg": 0.500, "bob_pct": 29.0, "bogey_pct": 15.0 },
+        "4":  { "sg_app": 2.200, "sg_ott": 1.900, "sg_put": 1.800, "sg_arg": 0.800, "bob_pct": 32.0, "bogey_pct": 12.0 }
       }
     },
     {
-      "name": "Chris Gotterup", "rank": 17, "course_sg": 0.50,
+      "name": "Tyrrell Hatton", "rank": 17, "course_sg": 1.25,
       "stats": {
-        "24": { "sg_app": 0.450, "sg_ott": 0.800, "sg_put": 0.720, "sg_arg": 0.100, "bob_pct": 26.5, "bogey_pct": 18.5 },
-        "12": { "sg_app": 0.500, "sg_ott": 0.850, "sg_put": 0.750, "sg_arg": 0.150, "bob_pct": 27.0, "bogey_pct": 18.2 },
-        "4":  { "sg_app": 0.600, "sg_ott": 0.900, "sg_put": 0.800, "sg_arg": 0.200, "bob_pct": 28.0, "bogey_pct": 17.5 }
+        "24": { "sg_app": 0.700, "sg_ott": 0.600, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 23.5, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.650, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 24.0, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.850, "sg_ott": 0.750, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 25.0, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "Collin Morikawa", "rank": 18, "course_sg": 0.50,
+      "name": "Sam Burns", "rank": 18, "course_sg": 0.60,
       "stats": {
-        "24": { "sg_app": 1.150, "sg_ott": -0.250, "sg_put": 0.456, "sg_arg": 0.824, "bob_pct": 23.0, "bogey_pct": 11.8 },
-        "12": { "sg_app": 1.250, "sg_ott": -0.200, "sg_put": 0.500, "sg_arg": 0.850, "bob_pct": 23.5, "bogey_pct": 11.5 },
-        "4":  { "sg_app": 1.400, "sg_ott": -0.100, "sg_put": 0.600, "sg_arg": 0.900, "bob_pct": 24.5, "bogey_pct": 11.0 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.600, "sg_put": 0.900, "sg_arg": 0.200, "bob_pct": 25.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": 0.950, "sg_arg": 0.250, "bob_pct": 26.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.750, "sg_put": 1.100, "sg_arg": 0.350, "bob_pct": 27.5, "bogey_pct": 13.5 }
       }
     },
     {
-      "name": "Ludvig Aberg", "rank": 19, "course_sg": 0.00,
+      "name": "Cameron Young", "rank": 19, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": 0.900, "sg_ott": 0.950, "sg_put": 0.200, "sg_arg": 0.150, "bob_pct": 25.5, "bogey_pct": 13.0 },
-        "12": { "sg_app": 1.000, "sg_ott": 1.000, "sg_put": 0.250, "sg_arg": 0.200, "bob_pct": 26.0, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 1.200, "sg_ott": 1.200, "sg_put": 0.300, "sg_arg": 0.300, "bob_pct": 27.5, "bogey_pct": 12.0 }
+        "24": { "sg_app": 0.700, "sg_ott": 0.900, "sg_put": 0.100, "sg_arg": 0.200, "bob_pct": 23.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.950, "sg_put": 0.150, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.850, "sg_ott": 1.050, "sg_put": 0.250, "sg_arg": 0.350, "bob_pct": 24.5, "bogey_pct": 14.2 }
       }
     },
     {
-      "name": "Cameron Young", "rank": 20, "course_sg": 0.60,
+      "name": "Jason Day", "rank": 20, "course_sg": 2.65,
       "stats": {
-        "24": { "sg_app": 0.550, "sg_ott": 0.589, "sg_put": 0.097, "sg_arg": 0.205, "bob_pct": 22.5, "bogey_pct": 16.0 },
-        "12": { "sg_app": 0.600, "sg_ott": 0.650, "sg_put": 0.150, "sg_arg": 0.250, "bob_pct": 23.0, "bogey_pct": 15.5 },
-        "4":  { "sg_app": 0.800, "sg_ott": 0.800, "sg_put": 0.300, "sg_arg": 0.400, "bob_pct": 24.5, "bogey_pct": 14.5 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.400, "sg_put": 1.200, "sg_arg": 1.300, "bob_pct": 23.5, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.700, "sg_ott": 0.450, "sg_put": 1.300, "sg_arg": 1.400, "bob_pct": 24.0, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.850, "sg_ott": 0.500, "sg_put": 1.500, "sg_arg": 1.600, "bob_pct": 25.0, "bogey_pct": 12.0 }
       }
     },
     {
-      "name": "Tyrrell Hatton", "rank": 21, "course_sg": 0.70,
+      "name": "Sepp Straka", "rank": 21, "course_sg": 1.15,
       "stats": {
-        "24": { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.600, "sg_arg": 0.300, "bob_pct": 23.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.700, "sg_ott": 0.600, "sg_put": 0.650, "sg_arg": 0.350, "bob_pct": 23.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.800, "sg_ott": 0.700, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 25.0, "bogey_pct": 13.5 }
+        "24": { "sg_app": 1.500, "sg_ott": 0.500, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 24.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 1.600, "sg_ott": 0.550, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 24.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 1.800, "sg_ott": 0.600, "sg_put": 0.350, "sg_arg": 0.200, "bob_pct": 25.5, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "Maverick McNealy", "rank": 22, "course_sg": 0.40,
+      "name": "Tony Finau", "rank": 22, "course_sg": 1.45,
       "stats": {
-        "24": { "sg_app": 0.060, "sg_ott": 0.929, "sg_put": 0.342, "sg_arg": 0.123, "bob_pct": 21.0, "bogey_pct": 13.5 },
-        "12": { "sg_app": 0.100, "sg_ott": 0.950, "sg_put": 0.400, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 13.2 },
-        "4":  { "sg_app": 0.250, "sg_ott": 1.100, "sg_put": 0.500, "sg_arg": 0.250, "bob_pct": 23.0, "bogey_pct": 12.8 }
+        "24": { "sg_app": 0.650, "sg_ott": 0.450, "sg_put": -0.150, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": -0.400, "sg_arg": 0.100, "bob_pct": 20.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": -0.500, "sg_ott": 0.200, "sg_put": -1.200, "sg_arg": 0.000, "bob_pct": 18.0, "bogey_pct": 17.5 }
       }
     },
     {
-      "name": "Matt Fitzpatrick", "rank": 23, "course_sg": 0.80,
+      "name": "Matt Fitzpatrick", "rank": 23, "course_sg": 1.30,
       "stats": {
-        "24": { "sg_app": 1.460, "sg_ott": 0.080, "sg_put": 0.429, "sg_arg": 0.486, "bob_pct": 21.5, "bogey_pct": 13.0 },
-        "12": { "sg_app": 1.500, "sg_ott": 0.150, "sg_put": 0.500, "sg_arg": 0.550, "bob_pct": 22.0, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 1.600, "sg_ott": 0.250, "sg_put": 0.600, "sg_arg": 0.700, "bob_pct": 23.5, "bogey_pct": 12.0 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.300, "sg_put": 0.800, "sg_arg": 0.600, "bob_pct": 22.0, "bogey_pct": 12.8 },
+        "12": { "sg_app": 0.700, "sg_ott": 0.350, "sg_put": 0.900, "sg_arg": 0.650, "bob_pct": 22.5, "bogey_pct": 12.5 },
+        "4":  { "sg_app": 0.900, "sg_ott": 0.450, "sg_put": 1.100, "sg_arg": 0.800, "bob_pct": 24.0, "bogey_pct": 11.5 }
       }
     },
     {
-      "name": "Ryan Gerard", "rank": 24, "course_sg": 0.85,
+      "name": "Brian Harman", "rank": 24, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": 1.392, "sg_ott": 1.058, "sg_put": -0.239, "sg_arg": 0.243, "bob_pct": 27.0, "bogey_pct": 17.5 },
-        "12": { "sg_app": 1.450, "sg_ott": 1.100, "sg_put": -0.200, "sg_arg": 0.300, "bob_pct": 27.5, "bogey_pct": 17.0 },
-        "4":  { "sg_app": 1.600, "sg_ott": 1.200, "sg_put": -0.100, "sg_arg": 0.400, "bob_pct": 29.0, "bogey_pct": 16.5 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.800, "sg_arg": 0.700, "bob_pct": 20.5, "bogey_pct": 11.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.850, "sg_arg": 0.750, "bob_pct": 21.0, "bogey_pct": 11.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.200, "sg_put": 0.950, "sg_arg": 0.800, "bob_pct": 22.0, "bogey_pct": 11.0 }
       }
     },
     {
-      "name": "Aaron Rai", "rank": 25, "course_sg": 0.40,
+      "name": "Jordan Spieth", "rank": 25, "course_sg": 2.80,
       "stats": {
-        "24": { "sg_app": 2.062, "sg_ott": -0.159, "sg_put": -0.265, "sg_arg": 0.316, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 2.100, "sg_ott": -0.100, "sg_put": -0.200, "sg_arg": 0.350, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 2.250, "sg_ott": 0.000, "sg_put": -0.100, "sg_arg": 0.400, "bob_pct": 21.5, "bogey_pct": 13.0 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.700, "sg_arg": 0.900, "bob_pct": 22.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.500, "sg_ott": 0.250, "sg_put": 0.800, "sg_arg": 1.100, "bob_pct": 22.5, "bogey_pct": 14.0 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.300, "sg_put": 1.200, "sg_arg": 1.400, "bob_pct": 24.0, "bogey_pct": 13.5 }
       }
     },
     {
-      "name": "Patrick Cantlay", "rank": 26, "course_sg": 1.60,
+      "name": "Tom Kim", "rank": 26, "course_sg": 0.70,
       "stats": {
-        "24": { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.450, "sg_arg": 0.880, "bob_pct": 23.2, "bogey_pct": 12.0 },
-        "12": { "sg_app": 0.700, "sg_ott": 0.600, "sg_put": 0.500, "sg_arg": 0.900, "bob_pct": 23.5, "bogey_pct": 11.8 },
-        "4":  { "sg_app": 0.800, "sg_ott": 0.700, "sg_put": 0.600, "sg_arg": 1.000, "bob_pct": 24.5, "bogey_pct": 11.0 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.500, "sg_put": 0.300, "sg_arg": 0.200, "bob_pct": 22.0, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.600, "sg_put": 0.450, "sg_arg": 0.300, "bob_pct": 23.5, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Sam Burns", "rank": 27, "course_sg": 1.72,
+      "name": "Sungjae Im", "rank": 27, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": -0.415, "sg_ott": 0.500, "sg_put": 1.777, "sg_arg": 0.740, "bob_pct": 28.8, "bogey_pct": 15.2 },
-        "12": { "sg_app": -0.300, "sg_ott": 0.550, "sg_put": 1.850, "sg_arg": 0.750, "bob_pct": 29.0, "bogey_pct": 15.0 },
-        "4":  { "sg_app": 0.000, "sg_ott": 0.700, "sg_put": 2.000, "sg_arg": 0.850, "bob_pct": 31.0, "bogey_pct": 14.5 }
+        "24": { "sg_app": 0.700, "sg_ott": 0.800, "sg_put": 0.400, "sg_arg": 0.500, "bob_pct": 23.0, "bogey_pct": 12.5 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.850, "sg_put": 0.450, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 12.2 },
+        "4":  { "sg_app": 0.850, "sg_ott": 0.950, "sg_put": 0.550, "sg_arg": 0.600, "bob_pct": 24.5, "bogey_pct": 11.5 }
       }
     },
     {
-      "name": "Shane Lowry", "rank": 28, "course_sg": 1.30,
+      "name": "Si Woo Kim", "rank": 28, "course_sg": 1.45,
       "stats": {
-        "24": { "sg_app": 0.750, "sg_ott": 0.450, "sg_put": 0.250, "sg_arg": 0.500, "bob_pct": 21.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": 0.800, "sg_ott": 0.500, "sg_put": 0.300, "sg_arg": 0.550, "bob_pct": 21.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 1.000, "sg_ott": 0.600, "sg_put": 0.400, "sg_arg": 0.650, "bob_pct": 23.0, "bogey_pct": 12.2 }
+        "24": { "sg_app": 1.100, "sg_ott": 0.300, "sg_put": 0.800, "sg_arg": 0.600, "bob_pct": 22.5, "bogey_pct": 13.2 },
+        "12": { "sg_app": 1.250, "sg_ott": 0.350, "sg_put": 0.900, "sg_arg": 0.650, "bob_pct": 23.0, "bogey_pct": 13.0 },
+        "4":  { "sg_app": 1.550, "sg_ott": 0.450, "sg_put": 1.300, "sg_arg": 0.800, "bob_pct": 25.5, "bogey_pct": 11.5 }
       }
     },
     {
-      "name": "Patrick Reed", "rank": 29, "course_sg": 0.96,
+      "name": "Min Woo Lee", "rank": 29, "course_sg": 0.85,
       "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.600, "sg_arg": 0.800, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.650, "sg_arg": 0.850, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.500, "sg_ott": 0.300, "sg_put": 0.700, "sg_arg": 0.900, "bob_pct": 21.5, "bogey_pct": 13.5 }
+        "24": { "sg_app": 0.200, "sg_ott": 1.200, "sg_put": 0.500, "sg_arg": 0.600, "bob_pct": 24.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 1.250, "sg_put": 0.550, "sg_arg": 0.650, "bob_pct": 24.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 1.350, "sg_put": 0.650, "sg_arg": 0.750, "bob_pct": 25.5, "bogey_pct": 14.2 }
       }
     },
     {
-      "name": "Marco Penge", "rank": 30, "course_sg": 0.80,
+      "name": "Corey Conners", "rank": 30, "course_sg": 0.80,
       "stats": {
-        "24": { "sg_app": 0.456, "sg_ott": 1.491, "sg_put": -1.022, "sg_arg": 0.780, "bob_pct": 22.0, "bogey_pct": 18.0 },
-        "12": { "sg_app": 0.500, "sg_ott": 1.550, "sg_put": -0.900, "sg_arg": 0.800, "bob_pct": 22.5, "bogey_pct": 17.8 },
-        "4":  { "sg_app": 0.600, "sg_ott": 1.700, "sg_put": -0.700, "sg_arg": 0.900, "bob_pct": 24.0, "bogey_pct": 17.0 }
+        "24": { "sg_app": 0.950, "sg_ott": 0.900, "sg_put": 0.100, "sg_arg": -0.200, "bob_pct": 21.0, "bogey_pct": 12.0 },
+        "12": { "sg_app": 1.000, "sg_ott": 0.950, "sg_put": 0.150, "sg_arg": -0.150, "bob_pct": 21.5, "bogey_pct": 11.8 },
+        "4":  { "sg_app": 1.100, "sg_ott": 1.050, "sg_put": 0.250, "sg_arg": -0.050, "bob_pct": 22.5, "bogey_pct": 11.2 }
       }
-    }
-	,
-    {
-      "name": "Bryson DeChambeau", "rank": 31, "course_sg": 1.20,
-      "stats": {
-        "24": { "sg_app": 0.064, "sg_ott": 1.662, "sg_put": 0.782, "sg_arg": 0.447, "bob_pct": 25.0, "bogey_pct": 13.8 },
-        "12": { "sg_app": 0.200, "sg_ott": 1.750, "sg_put": 0.850, "sg_arg": 0.500, "bob_pct": 25.5, "bogey_pct": 13.5 },
-        "4":  { "sg_app": 0.500, "sg_ott": 1.900, "sg_put": 1.000, "sg_arg": 0.600, "bob_pct": 27.5, "bogey_pct": 12.5 }
-      }
-    },
-    {
-      "name": "Corey Conners", "rank": 32, "course_sg": 0.80,
-      "stats": {
-        "24": { "sg_app": 0.947, "sg_ott": 0.898, "sg_put": 0.724, "sg_arg": -0.614, "bob_pct": 20.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": 1.000, "sg_ott": 0.950, "sg_put": 0.750, "sg_arg": -0.550, "bob_pct": 20.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 1.200, "sg_ott": 1.050, "sg_put": 0.800, "sg_arg": -0.400, "bob_pct": 21.5, "bogey_pct": 12.0 }
-      }
-    },
-    {
-      "name": "Jason Day", "rank": 33, "course_sg": 2.08,
-      "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 3.618, "sg_put": 2.914, "sg_arg": 0.650, "bob_pct": 40.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.600, "sg_ott": 3.700, "sg_put": 3.000, "sg_arg": 0.700, "bob_pct": 41.0, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.800, "sg_ott": 3.900, "sg_put": 3.200, "sg_arg": 0.800, "bob_pct": 43.0, "bogey_pct": 13.5 }
-      }
-    },
-    {
-      "name": "Matt McCarty", "rank": 34, "course_sg": 0.92,
-      "stats": {
-        "24": { "sg_app": 0.350, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 24.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.400, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.500, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.300, "bob_pct": 25.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Michael Brennan", "rank": 35, "course_sg": 0.50,
-      "stats": {
-        "24": { "sg_app": 0.572, "sg_ott": 1.500, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 26.0, "bogey_pct": 16.5 },
-        "12": { "sg_app": 0.600, "sg_ott": 1.550, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 26.5, "bogey_pct": 16.2 },
-        "4":  { "sg_app": 0.700, "sg_ott": 1.650, "sg_put": 0.350, "sg_arg": 0.200, "bob_pct": 27.5, "bogey_pct": 15.8 }
-      }
-    },
-    {
-      "name": "Max Greyserman", "rank": 36, "course_sg": 0.50,
-      "stats": {
-        "24": { "sg_app": 0.676, "sg_ott": -1.070, "sg_put": 1.356, "sg_arg": 0.493, "bob_pct": 23.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.750, "sg_ott": -0.900, "sg_put": 1.450, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.850, "sg_ott": -0.800, "sg_put": 1.600, "sg_arg": 0.650, "bob_pct": 25.0, "bogey_pct": 13.0 }
-      }
-    },
-    {
-      "name": "Si Woo Kim", "rank": 37, "course_sg": 1.41,
-      "stats": {
-        "24": { "sg_app": 0.828, "sg_ott": -0.258, "sg_put": 1.692, "sg_arg": 0.193, "bob_pct": 20.5, "bogey_pct": 13.2 },
-        "12": { "sg_app": 0.900, "sg_ott": -0.200, "sg_put": 1.750, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 13.0 },
-        "4":  { "sg_app": 1.500, "sg_ott": 0.200, "sg_put": 2.200, "sg_arg": 0.550, "bob_pct": 24.0, "bogey_pct": 11.5 }
-      }
-    },
-    {
-      "name": "Andrew Novak", "rank": 38, "course_sg": 0.76,
-      "stats": {
-        "24": { "sg_app": 0.550, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.300, "bob_pct": 21.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.600, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.750, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Kristoffer Reitan", "rank": 39, "course_sg": 0.57,
-      "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 19.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 20.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Sam Stevens", "rank": 40, "course_sg": 0.79,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.8 }
-      }
-    },
-    {
-      "name": "Brian Harman", "rank": 41, "course_sg": 0.90,
-      "stats": {
-        "24": { "sg_app": -2.790, "sg_ott": 0.100, "sg_put": 0.800, "sg_arg": 0.500, "bob_pct": 20.0, "bogey_pct": 13.5 },
-        "12": { "sg_app": -2.500, "sg_ott": 0.150, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 20.5, "bogey_pct": 13.2 },
-        "4":  { "sg_app": -2.000, "sg_ott": 0.250, "sg_put": 0.950, "sg_arg": 0.650, "bob_pct": 21.5, "bogey_pct": 12.8 }
-      }
-    },
-    {
-      "name": "Michael Kim", "rank": 42, "course_sg": 0.98,
-      "stats": {
-        "24": { "sg_app": -0.676, "sg_ott": -0.232, "sg_put": -0.405, "sg_arg": 1.518, "bob_pct": 19.5, "bogey_pct": 15.0 },
-        "12": { "sg_app": -0.600, "sg_ott": -0.200, "sg_put": -0.350, "sg_arg": 1.600, "bob_pct": 20.0, "bogey_pct": 14.8 },
-        "4":  { "sg_app": -0.450, "sg_ott": -0.100, "sg_put": -0.250, "sg_arg": 1.750, "bob_pct": 21.0, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Rasmus Hojgaard", "rank": 43, "course_sg": 1.05,
-      "stats": {
-        "24": { "sg_app": -0.380, "sg_ott": 0.680, "sg_put": 0.300, "sg_arg": 0.560, "bob_pct": 22.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": -0.300, "sg_ott": 0.750, "sg_put": 0.350, "sg_arg": 0.600, "bob_pct": 22.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": -0.150, "sg_ott": 0.850, "sg_put": 0.450, "sg_arg": 0.700, "bob_pct": 23.5, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Sami Valimaki", "rank": 44, "course_sg": 0.20,
-      "stats": {
-        "24": { "sg_app": 0.100, "sg_ott": 0.300, "sg_put": 2.637, "sg_arg": 0.100, "bob_pct": 24.5, "bogey_pct": 17.5 },
-        "12": { "sg_app": 0.150, "sg_ott": 0.350, "sg_put": 2.750, "sg_arg": 0.150, "bob_pct": 25.0, "bogey_pct": 17.2 },
-        "4":  { "sg_app": 0.250, "sg_ott": 0.450, "sg_put": 2.900, "sg_arg": 0.250, "bob_pct": 26.0, "bogey_pct": 16.5 }
-      }
-    },
-    {
-      "name": "Kurt Kitayama", "rank": 45, "course_sg": 1.03,
-      "stats": {
-        "24": { "sg_app": 0.770, "sg_ott": 1.110, "sg_put": -0.100, "sg_arg": 0.200, "bob_pct": 20.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.800, "sg_ott": 1.150, "sg_put": -0.050, "sg_arg": 0.250, "bob_pct": 20.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.900, "sg_ott": 1.250, "sg_put": 0.100, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Ryan Fox", "rank": 46, "course_sg": 0.59,
-      "stats": {
-        "24": { "sg_app": 0.638, "sg_ott": 0.437, "sg_put": -0.192, "sg_arg": 0.820, "bob_pct": 21.0, "bogey_pct": 15.2 },
-        "12": { "sg_app": 0.700, "sg_ott": 0.500, "sg_put": -0.100, "sg_arg": 0.850, "bob_pct": 21.5, "bogey_pct": 15.0 },
-        "4":  { "sg_app": 0.800, "sg_ott": 0.600, "sg_put": 0.100, "sg_arg": 0.950, "bob_pct": 22.5, "bogey_pct": 14.5 }
-      }
-    },
-    {
-      "name": "Min Woo Lee", "rank": 47, "course_sg": 0.86,
-      "stats": {
-        "24": { "sg_app": -0.330, "sg_ott": 0.880, "sg_put": 2.160, "sg_arg": 0.400, "bob_pct": 23.5, "bogey_pct": 16.0 },
-        "12": { "sg_app": -0.250, "sg_ott": 0.950, "sg_put": 2.250, "sg_arg": 0.450, "bob_pct": 24.0, "bogey_pct": 15.8 },
-        "4":  { "sg_app": -0.100, "sg_ott": 1.100, "sg_put": 2.450, "sg_arg": 0.550, "bob_pct": 25.5, "bogey_pct": 15.2 }
-      }
-    },
-    {
-      "name": "Taylor Pendrith", "rank": 48, "course_sg": 1.23,
-      "stats": {
-        "24": { "sg_app": 0.726, "sg_ott": 1.261, "sg_put": 0.258, "sg_arg": 0.459, "bob_pct": 24.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.800, "sg_ott": 1.300, "sg_put": 0.300, "sg_arg": 0.500, "bob_pct": 24.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.950, "sg_ott": 1.450, "sg_put": 0.400, "sg_arg": 0.600, "bob_pct": 25.5, "bogey_pct": 13.5 }
-      }
-    },
-    {
-      "name": "Wyndham Clark", "rank": 49, "course_sg": 0.88,
-      "stats": {
-        "24": { "sg_app": -0.230, "sg_ott": 0.444, "sg_put": -0.649, "sg_arg": 0.890, "bob_pct": 29.5, "bogey_pct": 16.5 },
-        "12": { "sg_app": -0.150, "sg_ott": 0.500, "sg_put": -0.550, "sg_arg": 0.950, "bob_pct": 30.0, "bogey_pct": 16.2 },
-        "4":  { "sg_app": 0.050, "sg_ott": 0.650, "sg_put": -0.350, "sg_arg": 1.050, "bob_pct": 31.5, "bogey_pct": 15.5 }
-      }
-    },
-    {
-      "name": "Christiaan Bezuidenhout", "rank": 50, "course_sg": 0.70,
-      "stats": {
-        "24": { "sg_app": 1.244, "sg_ott": -0.347, "sg_put": -0.350, "sg_arg": -0.093, "bob_pct": 23.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": 1.300, "sg_ott": -0.300, "sg_put": -0.300, "sg_arg": -0.050, "bob_pct": 23.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 1.450, "sg_ott": -0.200, "sg_put": -0.150, "sg_arg": 0.050, "bob_pct": 24.5, "bogey_pct": 12.2 }
-      }
-    },
-    {
-      "name": "J.T. Poston", "rank": 51, "course_sg": 1.88,
-      "stats": {
-        "24": { "sg_app": 1.400, "sg_ott": 0.025, "sg_put": 1.104, "sg_arg": 0.175, "bob_pct": 25.7, "bogey_pct": 12.5 },
-        "12": { "sg_app": 1.550, "sg_ott": 0.100, "sg_put": 1.200, "sg_arg": 0.250, "bob_pct": 26.5, "bogey_pct": 12.2 },
-        "4":  { "sg_app": 1.850, "sg_ott": 0.250, "sg_put": 1.400, "sg_arg": 0.350, "bob_pct": 28.0, "bogey_pct": 11.5 }
-      }
-    },
-    {
-      "name": "Harry Hall", "rank": 52, "course_sg": 1.40,
-      "stats": {
-        "24": { "sg_app": 0.356, "sg_ott": -0.221, "sg_put": 1.548, "sg_arg": 0.270, "bob_pct": 22.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.400, "sg_ott": -0.180, "sg_put": 1.600, "sg_arg": 0.300, "bob_pct": 22.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.500, "sg_ott": -0.100, "sg_put": 1.750, "sg_arg": 0.400, "bob_pct": 23.5, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Rasmus Neergaard-Petersen", "rank": 53, "course_sg": 0.98,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Daniel Berger", "rank": 54, "course_sg": 0.97,
-      "stats": {
-        "24": { "sg_app": 1.100, "sg_ott": 1.074, "sg_put": -0.596, "sg_arg": -0.124, "bob_pct": 21.0, "bogey_pct": 13.5 },
-        "12": { "sg_app": 1.150, "sg_ott": 1.100, "sg_put": -0.550, "sg_arg": -0.100, "bob_pct": 21.5, "bogey_pct": 13.2 },
-        "4":  { "sg_app": 1.300, "sg_ott": 1.200, "sg_put": -0.450, "sg_arg": -0.050, "bob_pct": 22.5, "bogey_pct": 12.8 }
-      }
-    },
-    {
-      "name": "Sungjae Im", "rank": 55, "course_sg": 0.78,
-      "stats": {
-        "24": { "sg_app": -1.790, "sg_ott": 0.650, "sg_put": 0.400, "sg_arg": 0.400, "bob_pct": 22.1, "bogey_pct": 13.0 },
-        "12": { "sg_app": -1.500, "sg_ott": 0.700, "sg_put": 0.450, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": -1.000, "sg_ott": 0.850, "sg_put": 0.550, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 12.2 }
-      }
-    },
-    {
-      "name": "Nick Taylor", "rank": 56, "course_sg": 0.96,
-      "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 0.100, "sg_put": 0.600, "sg_arg": 0.300, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.550, "sg_ott": 0.150, "sg_put": 0.650, "sg_arg": 0.350, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 21.5, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Jacob Bridgeman", "rank": 57, "course_sg": 0.72,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.400, "sg_arg": 0.200, "bob_pct": 26.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 26.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 27.5, "bogey_pct": 14.8 }
-      }
-    },
-    {
-      "name": "Billy Horschel", "rank": 58, "course_sg": 1.10,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.250, "sg_put": 0.600, "sg_arg": 0.350, "bob_pct": 21.0, "bogey_pct": 13.8 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.300, "sg_put": 0.650, "sg_arg": 0.400, "bob_pct": 21.5, "bogey_pct": 13.5 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.400, "sg_put": 0.750, "sg_arg": 0.500, "bob_pct": 22.5, "bogey_pct": 13.0 }
-      }
-    },
-    {
-      "name": "Akshay Bhatia", "rank": 59, "course_sg": 1.04,
-      "stats": {
-        "24": { "sg_app": 0.650, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 23.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.700, "sg_ott": 0.550, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 23.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.850, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 13.8 }
-      }
-    },
-    {
-      "name": "Nicolas Echavarria", "rank": 60, "course_sg": 0.68,
-      "stats": {
-        "24": { "sg_app": 1.054, "sg_ott": 0.842, "sg_put": 0.585, "sg_arg": -1.526, "bob_pct": 21.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 1.100, "sg_ott": 0.880, "sg_put": 0.620, "sg_arg": -1.450, "bob_pct": 21.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 1.250, "sg_ott": 0.950, "sg_put": 0.700, "sg_arg": -1.300, "bob_pct": 22.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Thomas Detry", "rank": 62, "course_sg": 0.66,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.500, "sg_put": 1.000, "sg_arg": 0.200, "bob_pct": 22.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 1.050, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 1.150, "sg_arg": 0.350, "bob_pct": 23.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Garrick Higgo", "rank": 64, "course_sg": 0.94,
-      "stats": {
-        "24": { "sg_app": -0.427, "sg_ott": -0.142, "sg_put": 1.501, "sg_arg": -0.728, "bob_pct": 20.0, "bogey_pct": 16.5 },
-        "12": { "sg_app": -0.400, "sg_ott": -0.100, "sg_put": 1.550, "sg_arg": -0.700, "bob_pct": 20.5, "bogey_pct": 16.2 },
-        "4":  { "sg_app": -0.350, "sg_ott": 0.000, "sg_put": 1.650, "sg_arg": -0.650, "bob_pct": 21.5, "bogey_pct": 15.8 }
-      }
-    },
-    {
-      "name": "Lucas Glover", "rank": 65, "course_sg": 0.89,
-      "stats": {
-        "24": { "sg_app": 0.891, "sg_ott": -0.027, "sg_put": -0.351, "sg_arg": 0.692, "bob_pct": 19.5, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.950, "sg_ott": 0.000, "sg_put": -0.300, "sg_arg": 0.720, "bob_pct": 20.0, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 1.050, "sg_ott": 0.100, "sg_put": -0.200, "sg_arg": 0.800, "bob_pct": 21.0, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Cameron Tringale", "rank": 66, "course_sg": 1.13,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.400, "sg_arg": 0.200, "bob_pct": 19.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 19.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 20.5, "bogey_pct": 13.8 }
-      }
-    },
-    {
-      "name": "Adam Scott", "rank": 67, "course_sg": 1.01,
-      "stats": {
-        "24": { "sg_app": -0.205, "sg_ott": 0.854, "sg_put": 1.092, "sg_arg": 0.214, "bob_pct": 21.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": -0.150, "sg_ott": 0.900, "sg_put": 1.150, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 0.000, "sg_ott": 1.000, "sg_put": 1.250, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 12.2 }
-      }
-    },
-    {
-      "name": "Daniel Brown", "rank": 68, "course_sg": 0.59,
-      "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 18.0, "bogey_pct": 16.0 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 18.5, "bogey_pct": 15.8 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 19.5, "bogey_pct": 15.2 }
-      }
     },
     {
-      "name": "Haotong Li", "rank": 69, "course_sg": 0.61,
+      "name": "J.T. Poston", "rank": 31, "course_sg": 0.80,
       "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.000, "bob_pct": 18.0, "bogey_pct": 17.5 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.050, "bob_pct": 18.5, "bogey_pct": 17.2 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 16.5 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.300, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 22.5, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.350, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 23.0, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.450, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 24.0, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Nicolai Hojgaard", "rank": 70, "course_sg": 0.68,
+      "name": "Denny McCarthy", "rank": 32, "course_sg": 1.40,
       "stats": {
-        "24": { "sg_app": 1.130, "sg_ott": -0.490, "sg_put": 0.797, "sg_arg": -0.483, "bob_pct": 22.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 1.180, "sg_ott": -0.450, "sg_put": 0.850, "sg_arg": -0.450, "bob_pct": 22.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 1.300, "sg_ott": -0.350, "sg_put": 0.950, "sg_arg": -0.350, "bob_pct": 23.5, "bogey_pct": 14.8 }
+        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 1.200, "sg_arg": 0.500, "bob_pct": 23.0, "bogey_pct": 12.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 1.250, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 12.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 1.350, "sg_arg": 0.650, "bob_pct": 24.5, "bogey_pct": 11.8 }
       }
     },
     {
-      "name": "Bud Cauley", "rank": 72, "course_sg": 0.73,
+      "name": "Harris English", "rank": 33, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 0.100, "sg_put": 0.200, "sg_arg": 0.300, "bob_pct": 19.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.550, "sg_ott": 0.150, "sg_put": 0.250, "sg_arg": 0.350, "bob_pct": 19.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 13.2 }
+        "24": { "sg_app": 0.500, "sg_ott": 0.400, "sg_put": 0.800, "sg_arg": 0.600, "bob_pct": 21.5, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.450, "sg_put": 0.850, "sg_arg": 0.650, "bob_pct": 22.0, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.950, "sg_arg": 0.750, "bob_pct": 23.0, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Rico Hoey", "rank": 84, "course_sg": 0.74,
+      "name": "Shane Lowry", "rank": 34, "course_sg": 1.30,
       "stats": {
-        "24": { "sg_app": 0.460, "sg_ott": 0.682, "sg_put": -0.984, "sg_arg": 0.018, "bob_pct": 20.0, "bogey_pct": 16.0 },
-        "12": { "sg_app": 0.500, "sg_ott": 0.720, "sg_put": -0.900, "sg_arg": 0.050, "bob_pct": 20.5, "bogey_pct": 15.8 },
-        "4":  { "sg_app": 0.600, "sg_ott": 0.850, "sg_put": -0.800, "sg_arg": 0.100, "bob_pct": 21.5, "bogey_pct": 15.2 }
+        "24": { "sg_app": 0.800, "sg_ott": 0.500, "sg_put": 0.400, "sg_arg": 0.500, "bob_pct": 21.0, "bogey_pct": 12.0 },
+        "12": { "sg_app": 0.850, "sg_ott": 0.550, "sg_put": 0.450, "sg_arg": 0.550, "bob_pct": 21.5, "bogey_pct": 11.8 },
+        "4":  { "sg_app": 0.950, "sg_ott": 0.650, "sg_put": 0.550, "sg_arg": 0.650, "bob_pct": 22.5, "bogey_pct": 11.2 }
       }
     },
     {
-      "name": "Michael Thorbjornsen", "rank": 74, "course_sg": 0.82,
+      "name": "Christiaan Bezuidenhout", "rank": 35, "course_sg": 0.95,
       "stats": {
-        "24": { "sg_app": 0.246, "sg_ott": 1.173, "sg_put": 0.045, "sg_arg": -0.509, "bob_pct": 21.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.280, "sg_ott": 1.200, "sg_put": 0.100, "sg_arg": -0.480, "bob_pct": 21.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.350, "sg_ott": 1.300, "sg_put": 0.200, "sg_arg": -0.400, "bob_pct": 22.5, "bogey_pct": 14.8 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.200, "sg_put": 0.700, "sg_arg": 0.600, "bob_pct": 21.5, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.750, "sg_arg": 0.650, "bob_pct": 22.0, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.350, "sg_put": 0.850, "sg_arg": 0.750, "bob_pct": 23.0, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Tom McKibbin", "rank": 75, "course_sg": 0.89,
+      "name": "Akshay Bhatia", "rank": 36, "course_sg": 1.04,
       "stats": {
-        "24": { "sg_app": 0.045, "sg_ott": 0.327, "sg_put": 0.329, "sg_arg": -0.247, "bob_pct": 20.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.100, "sg_ott": 0.360, "sg_put": 0.360, "sg_arg": -0.200, "bob_pct": 20.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.180, "sg_ott": 0.450, "sg_put": 0.450, "sg_arg": -0.150, "bob_pct": 21.5, "bogey_pct": 14.2 }
+        "24": { "sg_app": 1.100, "sg_ott": 0.700, "sg_put": 0.400, "sg_arg": 0.200, "bob_pct": 24.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 1.250, "sg_ott": 0.750, "sg_put": 0.500, "sg_arg": 0.250, "bob_pct": 25.5, "bogey_pct": 13.5 },
+        "4":  { "sg_app": 1.600, "sg_ott": 0.850, "sg_put": 0.800, "sg_arg": 0.350, "bob_pct": 28.0, "bogey_pct": 12.0 }
       }
     },
     {
-      "name": "Denny McCarthy", "rank": 76, "course_sg": 1.12,
+      "name": "Nicolai Hojgaard", "rank": 37, "course_sg": 0.80,
       "stats": {
-        "24": { "sg_app": -0.015, "sg_ott": 0.113, "sg_put": 1.405, "sg_arg": 0.951, "bob_pct": 24.0, "bogey_pct": 12.5 },
-        "12": { "sg_app": 0.020, "sg_ott": 0.150, "sg_put": 1.450, "sg_arg": 1.000, "bob_pct": 24.5, "bogey_pct": 12.2 },
-        "4":  { "sg_app": 0.100, "sg_ott": 0.250, "sg_put": 1.550, "sg_arg": 1.100, "bob_pct": 25.5, "bogey_pct": 11.8 }
+        "24": { "sg_app": 0.600, "sg_ott": 1.200, "sg_put": 0.300, "sg_arg": -0.100, "bob_pct": 24.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.750, "sg_ott": 1.300, "sg_put": 0.400, "sg_arg": 0.000, "bob_pct": 25.0, "bogey_pct": 14.5 },
+        "4":  { "sg_app": 1.200, "sg_ott": 1.600, "sg_put": 0.850, "sg_arg": 0.150, "bob_pct": 28.5, "bogey_pct": 13.5 }
       }
     },
     {
-      "name": "Matt Wallace", "rank": 78, "course_sg": 0.76,
+      "name": "Byeong Hun An", "rank": 38, "course_sg": 0.80,
       "stats": {
-        "24": { "sg_app": -0.435, "sg_ott": 0.379, "sg_put": 0.005, "sg_arg": 2.256, "bob_pct": 21.0, "bogey_pct": 14.8 },
-        "12": { "sg_app": -0.400, "sg_ott": 0.400, "sg_put": 0.050, "sg_arg": 2.300, "bob_pct": 21.5, "bogey_pct": 14.5 },
-        "4":  { "sg_app": -0.350, "sg_ott": 0.500, "sg_put": 0.150, "sg_arg": 2.400, "bob_pct": 22.5, "bogey_pct": 13.8 }
+        "24": { "sg_app": 0.500, "sg_ott": 1.100, "sg_put": 0.100, "sg_arg": 0.400, "bob_pct": 23.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.550, "sg_ott": 1.150, "sg_put": 0.150, "sg_arg": 0.450, "bob_pct": 24.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.650, "sg_ott": 1.250, "sg_put": 0.250, "sg_arg": 0.550, "bob_pct": 25.0, "bogey_pct": 13.8 }
       }
     },
     {
-      "name": "Rickie Fowler", "rank": 80, "course_sg": 1.15,
+      "name": "Adam Scott", "rank": 39, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 0.250, "sg_put": 0.400, "sg_arg": 0.300, "bob_pct": 20.5, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.550, "sg_ott": 0.300, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 21.0, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.650, "sg_ott": 0.400, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 22.0, "bogey_pct": 13.2 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.500, "sg_put": 0.400, "sg_arg": 0.300, "bob_pct": 22.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.650, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 23.5, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "John Parry", "rank": 81, "course_sg": 0.65,
+      "name": "Will Zalatoris", "rank": 40, "course_sg": 0.75,
       "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 18.0, "bogey_pct": 16.0 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 18.5, "bogey_pct": 15.8 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 19.5, "bogey_pct": 15.2 }
+        "24": { "sg_app": 1.200, "sg_ott": 0.800, "sg_put": -0.200, "sg_arg": 0.200, "bob_pct": 24.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 1.250, "sg_ott": 0.850, "sg_put": -0.150, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 1.350, "sg_ott": 0.950, "sg_put": -0.050, "sg_arg": 0.350, "bob_pct": 25.5, "bogey_pct": 13.5 }
       }
     },
     {
-      "name": "Jordan Spieth", "rank": 82, "course_sg": 1.06,
+      "name": "Tom Hoge", "rank": 41, "course_sg": 1.05,
       "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 0.300, "sg_put": 0.400, "sg_arg": 0.600, "bob_pct": 21.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.650, "bob_pct": 21.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.650, "sg_ott": 0.450, "sg_put": 0.550, "sg_arg": 0.750, "bob_pct": 22.5, "bogey_pct": 13.5 }
+        "24": { "sg_app": 1.200, "sg_ott": 0.100, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 23.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 1.250, "sg_ott": 0.150, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 23.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 1.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "Chris Kirk", "rank": 84, "course_sg": 0.66,
+      "name": "Eric Cole", "rank": 42, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": 0.577, "sg_ott": -0.420, "sg_put": -0.424, "sg_arg": 0.471, "bob_pct": 19.5, "bogey_pct": 13.5 },
-        "12": { "sg_app": 0.620, "sg_ott": -0.380, "sg_put": -0.380, "sg_arg": 0.500, "bob_pct": 20.0, "bogey_pct": 13.2 },
-        "4":  { "sg_app": 0.700, "sg_ott": -0.300, "sg_put": -0.300, "sg_arg": 0.580, "bob_pct": 21.0, "bogey_pct": 12.8 }
+        "24": { "sg_app": 0.500, "sg_ott": 0.200, "sg_put": 0.600, "sg_arg": 0.400, "bob_pct": 22.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.650, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.350, "sg_put": 0.750, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "Pierceson Coody", "rank": 86, "course_sg": 0.63,
+      "name": "Rickie Fowler", "rank": 43, "course_sg": 0.70,
       "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 21.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 1.250, "sg_ott": 0.850, "sg_put": 1.550, "sg_arg": 0.500, "bob_pct": 24.5, "bogey_pct": 13.5 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.300, "sg_put": 0.500, "sg_arg": 0.400, "bob_pct": 22.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 23.0, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.450, "sg_put": 0.650, "sg_arg": 0.550, "bob_pct": 24.0, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "Jordan Smith", "rank": 91, "course_sg": 0.78,
+      "name": "Brendon Todd", "rank": 44, "course_sg": 1.20,
       "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.500, "sg_put": 0.000, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.050, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 0.150, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.2 }
+        "24": { "sg_app": 0.300, "sg_ott": -0.200, "sg_put": 0.900, "sg_arg": 0.600, "bob_pct": 21.0, "bogey_pct": 12.5 },
+        "12": { "sg_app": 0.350, "sg_ott": -0.150, "sg_put": 0.950, "sg_arg": 0.650, "bob_pct": 21.5, "bogey_pct": 12.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": -0.050, "sg_put": 1.050, "sg_arg": 0.750, "bob_pct": 22.5, "bogey_pct": 11.8 }
       }
     },
     {
-      "name": "Thorbjorn Olesen", "rank": 92, "course_sg": 0.92,
+      "name": "Nick Taylor", "rank": 45, "course_sg": 0.95,
       "stats": {
-        "24": { "sg_app": 1.219, "sg_ott": 0.350, "sg_put": -0.506, "sg_arg": 0.392, "bob_pct": 21.5, "bogey_pct": 15.0 },
-        "12": { "sg_app": 1.250, "sg_ott": 0.380, "sg_put": -0.450, "sg_arg": 0.420, "bob_pct": 22.0, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 1.350, "sg_ott": 0.450, "sg_put": -0.350, "sg_arg": 0.500, "bob_pct": 23.0, "bogey_pct": 14.2 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.200, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 22.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.350, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "Jon Rahm", "rank": 93, "course_sg": 2.09,
+      "name": "Seamus Power", "rank": 46, "course_sg": 1.00,
       "stats": {
-        "24": { "sg_app": 0.653, "sg_ott": 1.001, "sg_put": 0.938, "sg_arg": -0.138, "bob_pct": 25.0, "bogey_pct": 12.0 },
-        "12": { "sg_app": 0.700, "sg_ott": 1.050, "sg_put": 0.980, "sg_arg": -0.100, "bob_pct": 25.5, "bogey_pct": 11.8 },
-        "4":  { "sg_app": 0.800, "sg_ott": 1.150, "sg_put": 1.100, "sg_arg": 0.000, "bob_pct": 26.5, "bogey_pct": 11.2 }
+        "24": { "sg_app": 0.500, "sg_ott": 0.300, "sg_put": 0.400, "sg_arg": 0.400, "bob_pct": 21.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.450, "bob_pct": 22.0, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.450, "sg_put": 0.550, "sg_arg": 0.550, "bob_pct": 23.0, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "David Puig", "rank": 94, "course_sg": 1.09,
+      "name": "Matt Kuchar", "rank": 47, "course_sg": 1.15,
       "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 22.0, "bogey_pct": 16.0 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.550, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 22.5, "bogey_pct": 15.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 15.2 }
+        "24": { "sg_app": 0.300, "sg_ott": -0.100, "sg_put": 0.500, "sg_arg": 0.700, "bob_pct": 20.0, "bogey_pct": 12.5 },
+        "12": { "sg_app": 0.350, "sg_ott": -0.050, "sg_put": 0.550, "sg_arg": 0.750, "bob_pct": 20.5, "bogey_pct": 12.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.050, "sg_put": 0.650, "sg_arg": 0.850, "bob_pct": 21.5, "bogey_pct": 11.8 }
       }
     },
     {
-      "name": "Emiliano Grillo", "rank": 95, "course_sg": 0.50,
+      "name": "Justin Rose", "rank": 48, "course_sg": 1.20,
       "stats": {
-        "24": { "sg_app": 0.381, "sg_ott": 0.059, "sg_put": 0.134, "sg_arg": -0.481, "bob_pct": 19.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": 0.420, "sg_ott": 0.100, "sg_put": 0.180, "sg_arg": -0.450, "bob_pct": 19.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 0.500, "sg_ott": 0.200, "sg_put": 0.280, "sg_arg": -0.350, "bob_pct": 20.5, "bogey_pct": 12.2 }
+        "24": { "sg_app": 0.600, "sg_ott": 0.500, "sg_put": 0.600, "sg_arg": 0.500, "bob_pct": 22.5, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.650, "sg_arg": 0.550, "bob_pct": 23.0, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.650, "sg_put": 0.750, "sg_arg": 0.650, "bob_pct": 24.0, "bogey_pct": 12.5 }
       }
     },
     {
-      "name": "Jake Knapp", "rank": 96, "course_sg": 0.76,
+      "name": "Beau Hossler", "rank": 49, "course_sg": 1.60,
       "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.500, "sg_put": 0.840, "sg_arg": 0.100, "bob_pct": 28.0, "bogey_pct": 17.5 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.880, "sg_arg": 0.150, "bob_pct": 28.5, "bogey_pct": 17.2 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 0.980, "sg_arg": 0.250, "bob_pct": 29.5, "bogey_pct": 16.5 }
+        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.900, "sg_arg": 0.500, "bob_pct": 22.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.950, "sg_arg": 0.550, "bob_pct": 22.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 1.050, "sg_arg": 0.650, "bob_pct": 23.5, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "Kevin Yu", "rank": 97, "course_sg": 0.73,
+      "name": "Maverick McNealy", "rank": 50, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": -0.569, "sg_ott": -0.206, "sg_put": 1.605, "sg_arg": -0.376, "bob_pct": 22.0, "bogey_pct": 14.8 },
-        "12": { "sg_app": -0.520, "sg_ott": -0.150, "sg_put": 1.650, "sg_arg": -0.350, "bob_pct": 22.5, "bogey_pct": 14.5 },
-        "4":  { "sg_app": -0.420, "sg_ott": -0.050, "sg_put": 1.750, "sg_arg": -0.250, "bob_pct": 23.5, "bogey_pct": 13.8 }
+        "24": { "sg_app": 0.500, "sg_ott": 0.600, "sg_put": 0.800, "sg_arg": 0.400, "bob_pct": 23.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 0.850, "sg_arg": 0.450, "bob_pct": 23.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.750, "sg_put": 0.950, "sg_arg": 0.550, "bob_pct": 24.5, "bogey_pct": 12.8 }
       }
     },
     {
-      "name": "Davis Thompson", "rank": 102, "course_sg": 0.85,
+      "name": "Ben Griffin", "rank": 51, "course_sg": 0.90,
       "stats": {
-        "24": { "sg_app": 0.450, "sg_ott": 0.500, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 23.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.500, "sg_ott": 0.550, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.600, "sg_ott": 0.650, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 24.5, "bogey_pct": 14.2 }
+        "24": { "sg_app": 0.700, "sg_ott": 0.200, "sg_put": 0.800, "sg_arg": 0.500, "bob_pct": 22.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.250, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 23.0, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.850, "sg_ott": 0.350, "sg_put": 0.950, "sg_arg": 0.650, "bob_pct": 24.0, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "Vincent Whaley", "rank": 105, "course_sg": 0.65,
+      "name": "Andrew Putnam", "rank": 52, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.5 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.800, "sg_arg": 0.500, "bob_pct": 22.0, "bogey_pct": 12.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 22.5, "bogey_pct": 11.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.950, "sg_arg": 0.650, "bob_pct": 23.5, "bogey_pct": 11.2 }
       }
     },
     {
-      "name": "Sahith Theegala", "rank": 109, "course_sg": 0.57,
+      "name": "Michael Thorbjornsen", "rank": 53, "course_sg": 0.85,
       "stats": {
-        "24": { "sg_app": 0.500, "sg_ott": 0.400, "sg_put": 0.500, "sg_arg": 0.300, "bob_pct": 23.5, "bogey_pct": 13.5 },
-        "12": { "sg_app": 0.550, "sg_ott": 0.450, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 24.0, "bogey_pct": 13.2 },
-        "4":  { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.650, "sg_arg": 0.450, "bob_pct": 25.0, "bogey_pct": 12.5 }
+        "24": { "sg_app": 0.500, "sg_ott": 1.100, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 23.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 1.200, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 24.0, "bogey_pct": 14.5 },
+        "4":  { "sg_app": 1.100, "sg_ott": 1.400, "sg_put": 0.600, "sg_arg": 0.250, "bob_pct": 27.0, "bogey_pct": 13.5 }
       }
     },
     {
-      "name": "Webb Simpson", "rank": 110, "course_sg": 1.80,
+      "name": "Jake Knapp", "rank": 54, "course_sg": 0.60,
       "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": -0.100, "sg_put": 0.500, "sg_arg": 0.400, "bob_pct": 19.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": 0.250, "sg_ott": -0.050, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 19.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.050, "sg_put": 0.650, "sg_arg": 0.550, "bob_pct": 20.5, "bogey_pct": 12.2 }
+        "24": { "sg_app": 0.800, "sg_ott": 0.700, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 26.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.900, "sg_ott": 0.750, "sg_put": 0.300, "sg_arg": 0.150, "bob_pct": 27.0, "bogey_pct": 15.0 },
+        "4":  { "sg_app": 1.300, "sg_ott": 0.850, "sg_put": 0.500, "sg_arg": 0.300, "bob_pct": 29.5, "bogey_pct": 14.0 }
       }
     },
     {
-      "name": "Gary Woodland", "rank": 112, "course_sg": 1.36,
+      "name": "Webb Simpson", "rank": 55, "course_sg": 1.05,
       "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 1.300, "sg_put": -0.200, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.350, "sg_ott": 1.350, "sg_put": -0.150, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.450, "sg_ott": 1.450, "sg_put": -0.050, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.5 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.500, "sg_arg": 0.600, "bob_pct": 20.5, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.550, "sg_arg": 0.650, "bob_pct": 21.0, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.650, "sg_arg": 0.750, "bob_pct": 22.0, "bogey_pct": 12.5 }
       }
     },
     {
-      "name": "Adam Hadwin", "rank": 115, "course_sg": 1.10,
+      "name": "Adam Hadwin", "rank": 56, "course_sg": 1.10,
       "stats": {
         "24": { "sg_app": 0.550, "sg_ott": 0.330, "sg_put": 1.020, "sg_arg": 0.510, "bob_pct": 22.0, "bogey_pct": 14.5 },
         "12": { "sg_app": 0.600, "sg_ott": 0.380, "sg_put": 1.050, "sg_arg": 0.550, "bob_pct": 22.5, "bogey_pct": 14.2 },
@@ -749,71 +460,31 @@
       }
     },
     {
-      "name": "Mackenzie Hughes", "rank": 118, "course_sg": 0.80,
+      "name": "Mackenzie Hughes", "rank": 57, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": 0.100, "sg_ott": 0.200, "sg_put": 0.800, "sg_arg": 0.700, "bob_pct": 21.0, "bogey_pct": 13.5 },
-        "12": { "sg_app": 0.150, "sg_ott": 0.250, "sg_put": 0.850, "sg_arg": 0.750, "bob_pct": 21.5, "bogey_pct": 13.2 },
-        "4":  { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.950, "sg_arg": 0.850, "bob_pct": 22.5, "bogey_pct": 12.5 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 1.000, "sg_arg": 0.900, "bob_pct": 22.0, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 1.050, "sg_arg": 0.950, "bob_pct": 22.5, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 1.150, "sg_arg": 1.050, "bob_pct": 23.5, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Brendon Todd", "rank": 120, "course_sg": 0.70,
+      "name": "Taylor Montgomery", "rank": 58, "course_sg": 1.30,
       "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": -0.200, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 19.0, "bogey_pct": 12.5 },
-        "12": { "sg_app": 0.250, "sg_ott": -0.150, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 19.5, "bogey_pct": 12.2 },
-        "4":  { "sg_app": 0.350, "sg_ott": -0.050, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 20.5, "bogey_pct": 11.5 }
+        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 1.100, "sg_arg": 0.400, "bob_pct": 23.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 1.150, "sg_arg": 0.450, "bob_pct": 23.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 1.250, "sg_arg": 0.550, "bob_pct": 24.5, "bogey_pct": 14.2 }
       }
     },
     {
-      "name": "Adam Schenk", "rank": 122, "course_sg": 0.50,
+      "name": "Mark Hubbard", "rank": 59, "course_sg": 1.25,
       "stats": {
-        "24": { "sg_app": -1.790, "sg_ott": 0.300, "sg_put": 0.400, "sg_arg": 0.670, "bob_pct": 20.5, "bogey_pct": 14.5 },
-        "12": { "sg_app": -1.750, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.700, "bob_pct": 21.0, "bogey_pct": 14.2 },
-        "4":  { "sg_app": -1.650, "sg_ott": 0.450, "sg_put": 0.550, "sg_arg": 0.800, "bob_pct": 22.0, "bogey_pct": 13.5 }
+        "24": { "sg_app": 0.700, "sg_ott": 0.100, "sg_put": 0.600, "sg_arg": 0.300, "bob_pct": 21.5, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.150, "sg_put": 0.650, "sg_arg": 0.350, "bob_pct": 22.0, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.850, "sg_ott": 0.250, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 23.0, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Alex Smalley", "rank": 123, "course_sg": 0.62,
-      "stats": {
-        "24": { "sg_app": 0.693, "sg_ott": 0.621, "sg_put": -0.108, "sg_arg": 0.499, "bob_pct": 22.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.720, "sg_ott": 0.650, "sg_put": -0.080, "sg_arg": 0.520, "bob_pct": 22.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.800, "sg_ott": 0.750, "sg_put": 0.000, "sg_arg": 0.600, "bob_pct": 23.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Eric Cole", "rank": 125, "course_sg": 0.95,
-      "stats": {
-        "24": { "sg_app": 0.281, "sg_ott": -0.472, "sg_put": 1.027, "sg_arg": 0.118, "bob_pct": 21.5, "bogey_pct": 13.5 },
-        "12": { "sg_app": 0.320, "sg_ott": -0.420, "sg_put": 1.050, "sg_arg": 0.150, "bob_pct": 22.0, "bogey_pct": 13.2 },
-        "4":  { "sg_app": 0.400, "sg_ott": -0.320, "sg_put": 1.150, "sg_arg": 0.250, "bob_pct": 23.0, "bogey_pct": 12.5 }
-      }
-    },
-    {
-      "name": "Nick Dunlap", "rank": 128, "course_sg": 0.60,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.600, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 23.0, "bogey_pct": 16.0 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 23.5, "bogey_pct": 15.8 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.750, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 15.2 }
-      }
-    },
-    {
-      "name": "Lee Hodges", "rank": 129, "course_sg": 0.57,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 21.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 13.5 }
-      }
-    },
-    {
-      "name": "Tom Hoge", "rank": 130, "course_sg": 0.30,
-      "stats": {
-        "24": { "sg_app": 1.000, "sg_ott": 0.100, "sg_put": 0.200, "sg_arg": 0.000, "bob_pct": 22.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 1.050, "sg_ott": 0.150, "sg_put": 0.250, "sg_arg": 0.050, "bob_pct": 22.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 1.150, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 23.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Keith Mitchell", "rank": 134, "course_sg": 0.65,
+      "name": "Keith Mitchell", "rank": 60, "course_sg": 0.65,
       "stats": {
         "24": { "sg_app": 0.450, "sg_ott": 0.800, "sg_put": 0.000, "sg_arg": 0.100, "bob_pct": 21.5, "bogey_pct": 14.5 },
         "12": { "sg_app": 0.500, "sg_ott": 0.850, "sg_put": 0.050, "sg_arg": 0.150, "bob_pct": 22.0, "bogey_pct": 14.2 },
@@ -821,191 +492,31 @@
       }
     },
     {
-      "name": "Andrew Putnam", "rank": 135, "course_sg": 0.40,
+      "name": "Lucas Glover", "rank": 61, "course_sg": 0.60,
       "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": -0.100, "sg_put": 0.700, "sg_arg": 0.300, "bob_pct": 35.0, "bogey_pct": 12.0 },
-        "12": { "sg_app": 0.350, "sg_ott": -0.050, "sg_put": 0.750, "sg_arg": 0.350, "bob_pct": 35.5, "bogey_pct": 11.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.050, "sg_put": 0.850, "sg_arg": 0.450, "bob_pct": 36.5, "bogey_pct": 11.2 }
+        "24": { "sg_app": 1.100, "sg_ott": 0.400, "sg_put": -0.200, "sg_arg": 0.300, "bob_pct": 21.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 1.150, "sg_ott": 0.450, "sg_put": -0.150, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 1.250, "sg_ott": 0.550, "sg_put": -0.050, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 13.2 }
       }
     },
     {
-      "name": "Matt Kuchar", "rank": 136, "course_sg": 0.79,
+      "name": "Kevin Kisner", "rank": 62, "course_sg": 1.10,
       "stats": {
-        "24": { "sg_app": 0.100, "sg_ott": -0.200, "sg_put": 0.500, "sg_arg": 0.600, "bob_pct": 18.5, "bogey_pct": 12.5 },
-        "12": { "sg_app": 0.150, "sg_ott": -0.150, "sg_put": 0.550, "sg_arg": 0.650, "bob_pct": 19.0, "bogey_pct": 12.2 },
-        "4":  { "sg_app": 0.250, "sg_ott": -0.050, "sg_put": 0.650, "sg_arg": 0.750, "bob_pct": 20.0, "bogey_pct": 11.5 }
+        "24": { "sg_app": 0.300, "sg_ott": -0.200, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 20.0, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.350, "sg_ott": -0.150, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": -0.050, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 21.5, "bogey_pct": 12.2 }
       }
     },
     {
-      "name": "Seamus Power", "rank": 140, "course_sg": 0.70,
+      "name": "Harry Hall", "rank": 63, "course_sg": 0.75,
       "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.400, "sg_arg": 0.300, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 21.5, "bogey_pct": 13.2 }
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.900, "sg_arg": 0.500, "bob_pct": 23.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.950, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 1.050, "sg_arg": 0.650, "bob_pct": 24.5, "bogey_pct": 13.8 }
       }
     },
     {
-      "name": "Taylor Montgomery", "rank": 145, "course_sg": 0.80,
-      "stats": {
-        "24": { "sg_app": -0.200, "sg_ott": 0.100, "sg_put": 1.110, "sg_arg": 0.100, "bob_pct": 21.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": -0.150, "sg_ott": 0.150, "sg_put": 1.150, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": -0.050, "sg_ott": 0.250, "sg_put": 1.250, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Patrick Rodgers", "rank": 148, "course_sg": 0.50,
-      "stats": {
-        "24": { "sg_app": -1.500, "sg_ott": 0.400, "sg_put": 0.400, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 14.5 },
-        "12": { "sg_app": -1.450, "sg_ott": 0.450, "sg_put": 0.450, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 14.2 },
-        "4":  { "sg_app": -1.350, "sg_ott": 0.550, "sg_put": 0.550, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 13.5 }
-      }
-    },
-    {
-      "name": "K.H. Lee", "rank": 150, "course_sg": 0.50,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Aldrich Potgieter", "rank": 151, "course_sg": 0.00,
-      "stats": {
-        "24": { "sg_app": -0.358, "sg_ott": 1.500, "sg_put": -1.974, "sg_arg": -0.908, "bob_pct": 27.0, "bogey_pct": 19.0 },
-        "12": { "sg_app": -0.320, "sg_ott": 1.550, "sg_put": -1.900, "sg_arg": -0.850, "bob_pct": 27.5, "bogey_pct": 18.8 },
-        "4":  { "sg_app": -0.250, "sg_ott": 1.650, "sg_put": -1.750, "sg_arg": -0.750, "bob_pct": 28.5, "bogey_pct": 18.2 }
-      }
-    },
-    {
-      "name": "Davis Riley", "rank": 152, "course_sg": 0.45,
-      "stats": {
-        "24": { "sg_app": 0.584, "sg_ott": 0.550, "sg_put": 1.334, "sg_arg": 0.487, "bob_pct": 21.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.620, "sg_ott": 0.600, "sg_put": 1.380, "sg_arg": 0.520, "bob_pct": 21.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.700, "sg_ott": 0.700, "sg_put": 1.480, "sg_arg": 0.600, "bob_pct": 22.5, "bogey_pct": 14.5 }
-      }
-    },
-    {
-      "name": "Beau Hossler", "rank": 152, "course_sg": 1.95,
-      "stats": {
-        "24": { "sg_app": 0.184, "sg_ott": -0.478, "sg_put": 0.818, "sg_arg": 1.431, "bob_pct": 21.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.220, "sg_ott": -0.450, "sg_put": 0.850, "sg_arg": 1.480, "bob_pct": 21.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 0.300, "sg_ott": -0.380, "sg_put": 0.950, "sg_arg": 1.580, "bob_pct": 22.5, "bogey_pct": 13.5 }
-      }
-    },
-    {
-      "name": "Doug Ghim", "rank": 155, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": -2.000, "sg_ott": 0.500, "sg_put": -0.300, "sg_arg": 0.200, "bob_pct": 20.0, "bogey_pct": 15.0 },
-        "12": { "sg_app": -1.950, "sg_ott": 0.550, "sg_put": -0.250, "sg_arg": 0.250, "bob_pct": 20.5, "bogey_pct": 14.8 },
-        "4":  { "sg_app": -1.850, "sg_ott": 0.650, "sg_put": -0.150, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Justin Suh", "rank": 158, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.600, "sg_arg": 0.100, "bob_pct": 20.5, "bogey_pct": 15.0 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.650, "sg_arg": 0.150, "bob_pct": 21.0, "bogey_pct": 14.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.750, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Sam Ryder", "rank": 160, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.8 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 14.5 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.8 }
-      }
-    },
-    {
-      "name": "Carlos Ortiz", "rank": 164, "course_sg": 1.09,
-      "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "S.H. Kim", "rank": 165, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.500, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 15.2 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 15.0 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.650, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.2 }
-      }
-    },
-    {
-      "name": "Ben Martin", "rank": 168, "course_sg": 0.30,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Greyson Sigg", "rank": 170, "course_sg": 0.30,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.710, "bob_pct": 20.0, "bogey_pct": 14.0 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.750, "bob_pct": 20.5, "bogey_pct": 13.8 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.850, "bob_pct": 21.5, "bogey_pct": 13.2 }
-      }
-    },
-    {
-      "name": "Dylan Wu", "rank": 175, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 14.5 }
-      }
-    },
-    {
-      "name": "Robby Shelton", "rank": 178, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.300, "sg_ott": 0.100, "sg_put": 0.400, "sg_arg": 0.300, "bob_pct": 19.0, "bogey_pct": 14.2 },
-        "12": { "sg_app": 0.350, "sg_ott": 0.150, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 19.5, "bogey_pct": 14.0 },
-        "4":  { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 13.5 }
-      }
-    },
-    {
-      "name": "Nate Lashley", "rank": 180, "course_sg": 0.50,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 13.8 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.5 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 12.8 }
-      }
-    },
-    {
-      "name": "Callum Tarren", "rank": 185, "course_sg": 0.30,
-      "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": 0.500, "sg_put": 0.000, "sg_arg": 0.000, "bob_pct": 18.0, "bogey_pct": 16.5 },
-        "12": { "sg_app": 0.250, "sg_ott": 0.550, "sg_put": 0.050, "sg_arg": 0.050, "bob_pct": 18.5, "bogey_pct": 16.2 },
-        "4":  { "sg_app": 0.350, "sg_ott": 0.650, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 15.5 }
-      }
-    },
-    {
-      "name": "Kevin Kisner", "rank": 188, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.100, "sg_ott": -0.300, "sg_put": 0.600, "sg_arg": 0.400, "bob_pct": 18.0, "bogey_pct": 13.0 },
-        "12": { "sg_app": 0.150, "sg_ott": -0.250, "sg_put": 0.650, "sg_arg": 0.450, "bob_pct": 18.5, "bogey_pct": 12.8 },
-        "4":  { "sg_app": 0.250, "sg_ott": -0.150, "sg_put": 0.750, "sg_arg": 0.550, "bob_pct": 19.5, "bogey_pct": 12.2 }
-      }
-    },
-    {
-      "name": "Zach Johnson", "rank": 190, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.200, "sg_ott": -0.200, "sg_put": 0.500, "sg_arg": 0.300, "bob_pct": 19.0, "bogey_pct": 12.8 },
-        "12": { "sg_app": 0.250, "sg_ott": -0.150, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 19.5, "bogey_pct": 12.5 },
-        "4":  { "sg_app": 0.350, "sg_ott": -0.050, "sg_put": 0.650, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 11.8 }
-      }
-    },
-    {
-      "name": "Joel Dahmen", "rank": 192, "course_sg": 0.40,
-      "stats": {
-        "24": { "sg_app": 0.400, "sg_ott": 0.600, "sg_put": -0.200, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 15.5 },
-        "12": { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": -0.150, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 15.2 },
-        "4":  { "sg_app": 0.550, "sg_ott": 0.750, "sg_put": -0.050, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.5 }
-      }
-    },
-    {
-      "name": "Lanto Griffin", "rank": 195, "course_sg": 0.40,
+      "name": "Lanto Griffin", "rank": 64, "course_sg": 0.60,
       "stats": {
         "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 19.0, "bogey_pct": 14.2 },
         "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 14.0 },
@@ -1013,7 +524,159 @@
       }
     },
     {
-      "name": "Cameron Champ", "rank": 198, "course_sg": 0.30,
+      "name": "Nick Dunlap", "rank": 65, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.600, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 23.0, "bogey_pct": 16.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 23.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.750, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 15.2 }
+      }
+    },
+    {
+      "name": "Lee Hodges", "rank": 66, "course_sg": 0.57,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 21.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Alex Smalley", "rank": 67, "course_sg": 0.62,
+      "stats": {
+        "24": { "sg_app": 0.700, "sg_ott": 0.600, "sg_put": -0.100, "sg_arg": 0.500, "bob_pct": 22.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.720, "sg_ott": 0.650, "sg_put": -0.080, "sg_arg": 0.520, "bob_pct": 22.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.800, "sg_ott": 0.750, "sg_put": 0.000, "sg_arg": 0.600, "bob_pct": 23.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Adam Schenk", "rank": 68, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": -1.800, "sg_ott": 0.300, "sg_put": 0.400, "sg_arg": 0.670, "bob_pct": 20.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": -1.750, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.700, "bob_pct": 21.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": -1.650, "sg_ott": 0.450, "sg_put": 0.550, "sg_arg": 0.800, "bob_pct": 22.0, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Sam Ryder", "rank": 69, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.8 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 14.5 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Doug Ghim", "rank": 70, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": -2.000, "sg_ott": 0.500, "sg_put": -0.300, "sg_arg": 0.200, "bob_pct": 20.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": -1.950, "sg_ott": 0.550, "sg_put": -0.250, "sg_arg": 0.250, "bob_pct": 20.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": -1.850, "sg_ott": 0.650, "sg_put": -0.150, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Davis Riley", "rank": 71, "course_sg": 0.45,
+      "stats": {
+        "24": { "sg_app": 0.600, "sg_ott": 0.550, "sg_put": 1.300, "sg_arg": 0.500, "bob_pct": 21.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.620, "sg_ott": 0.600, "sg_put": 1.380, "sg_arg": 0.520, "bob_pct": 21.5, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.700, "sg_ott": 0.700, "sg_put": 1.480, "sg_arg": 0.600, "bob_pct": 22.5, "bogey_pct": 14.5 }
+      }
+    },
+    {
+      "name": "K.H. Lee", "rank": 72, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Patrick Rodgers", "rank": 73, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": -1.500, "sg_ott": 0.400, "sg_put": 0.400, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": -1.450, "sg_ott": 0.450, "sg_put": 0.450, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": -1.350, "sg_ott": 0.550, "sg_put": 0.550, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Justin Suh", "rank": 74, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.600, "sg_arg": 0.100, "bob_pct": 20.5, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.650, "sg_arg": 0.150, "bob_pct": 21.0, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.750, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Gary Woodland", "rank": 75, "course_sg": 0.85,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 1.300, "sg_put": -0.200, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 1.350, "sg_put": -0.150, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 1.450, "sg_put": -0.050, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.5 }
+      }
+    },
+    {
+      "name": "J.J. Spaun", "rank": 76, "course_sg": 0.80,
+      "stats": {
+        "24": { "sg_app": 0.770, "sg_ott": 0.720, "sg_put": 0.110, "sg_arg": -0.400, "bob_pct": 20.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.800, "sg_ott": 0.750, "sg_put": 0.150, "sg_arg": -0.300, "bob_pct": 20.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.900, "sg_ott": 0.800, "sg_put": 0.300, "sg_arg": -0.100, "bob_pct": 21.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Sam Stevens", "rank": 77, "course_sg": 0.79,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Nate Lashley", "rank": 78, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.100, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 13.8 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.5 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 12.8 }
+      }
+    },
+    {
+      "name": "Robby Shelton", "rank": 79, "course_sg": 0.40,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.100, "sg_put": 0.400, "sg_arg": 0.300, "bob_pct": 19.0, "bogey_pct": 14.2 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.150, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 19.5, "bogey_pct": 14.0 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.550, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Ben Martin", "rank": 80, "course_sg": 0.30,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Greyson Sigg", "rank": 81, "course_sg": 0.30,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.700, "bob_pct": 20.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.750, "bob_pct": 20.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.850, "bob_pct": 21.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Dylan Wu", "rank": 82, "course_sg": 0.40,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 14.5 }
+      }
+    },
+    {
+      "name": "Callum Tarren", "rank": 83, "course_sg": 0.30,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.500, "sg_put": 0.000, "sg_arg": 0.000, "bob_pct": 18.0, "bogey_pct": 16.5 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.550, "sg_put": 0.050, "sg_arg": 0.050, "bob_pct": 18.5, "bogey_pct": 16.2 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.650, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 15.5 }
+      }
+    },
+    {
+      "name": "Cameron Champ", "rank": 84, "course_sg": 0.30,
       "stats": {
         "24": { "sg_app": 0.100, "sg_ott": 0.800, "sg_put": -0.400, "sg_arg": -0.100, "bob_pct": 21.0, "bogey_pct": 17.0 },
         "12": { "sg_app": 0.150, "sg_ott": 0.850, "sg_put": -0.350, "sg_arg": -0.050, "bob_pct": 21.5, "bogey_pct": 16.8 },
@@ -1021,51 +684,532 @@
       }
     },
     {
-      "name": "Ryan Palmer", "rank": 200, "course_sg": 0.50,
+      "name": "Ryan Palmer", "rank": 85, "course_sg": 0.50,
       "stats": {
         "24": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": 0.000, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 15.5 },
         "12": { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.050, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 15.2 },
         "4":  { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.150, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.5 }
       }
     },
-  {
-    "name": "Tony Finau",
-    "rank": 34,
-    "course_sg": 1.45,
-    "stats": {
-      "24": { "sg_app": 0.650, "sg_ott": 0.450, "sg_put": -0.150, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 14.5 },
-      "12": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": -0.400, "sg_arg": 0.100, "bob_pct": 20.5, "bogey_pct": 15.8 },
-      "4":  { "sg_app": -0.500, "sg_ott": 0.200, "sg_put": -1.200, "sg_arg": 0.000, "bob_pct": 18.0, "bogey_pct": 17.5 }
-    }
-  },
-  {
-    "name": "Brooks Koepka",
-    "rank": 18,
-    "course_sg": 1.10,
-    "stats": {
-      "24": { "sg_app": 0.850, "sg_ott": 0.950, "sg_put": 0.400, "sg_arg": 0.350, "bob_pct": 24.5, "bogey_pct": 13.0 },
-      "12": { "sg_app": 0.900, "sg_ott": 1.000, "sg_put": 0.450, "sg_arg": 0.400, "bob_pct": 25.0, "bogey_pct": 12.8 },
-      "4":  { "sg_app": 1.100, "sg_ott": 1.100, "sg_put": 0.500, "sg_arg": 0.500, "bob_pct": 26.5, "bogey_pct": 12.0 }
-    }
-  },
-  {
-    "name": "Max Homa",
-    "rank": 22,
-    "course_sg": 1.65,
-    "stats": {
-      "24": { "sg_app": 0.720, "sg_ott": 0.480, "sg_put": 0.650, "sg_arg": 0.300, "bob_pct": 23.5, "bogey_pct": 13.8 },
-      "12": { "sg_app": 0.750, "sg_ott": 0.500, "sg_put": 0.700, "sg_arg": 0.350, "bob_pct": 24.0, "bogey_pct": 13.5 },
-      "4":  { "sg_app": 0.850, "sg_ott": 0.550, "sg_put": 0.800, "sg_arg": 0.450, "bob_pct": 25.0, "bogey_pct": 13.0 }
-    }
-  },
-
     {
-      "name": "Will Zalatoris", "rank": 211, "course_sg": 0.86,
+      "name": "S.H. Kim", "rank": 86, "course_sg": 0.40,
       "stats": {
-        "24": { "sg_app": 0.900, "sg_ott": 0.700, "sg_put": -0.300, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 14.5 },
-        "12": { "sg_app": 0.950, "sg_ott": 0.750, "sg_put": -0.250, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.2 },
-        "4":  { "sg_app": 1.050, "sg_ott": 0.850, "sg_put": -0.150, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 13.5 }
+        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.500, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 15.2 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 15.0 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.650, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Zach Johnson", "rank": 87, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": -0.200, "sg_put": 0.500, "sg_arg": 0.300, "bob_pct": 19.0, "bogey_pct": 12.8 },
+        "12": { "sg_app": 0.250, "sg_ott": -0.150, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 19.5, "bogey_pct": 12.5 },
+        "4":  { "sg_app": 0.350, "sg_ott": -0.050, "sg_put": 0.650, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 11.8 }
+      }
+    },
+    {
+      "name": "Joel Dahmen", "rank": 88, "course_sg": 0.40,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.600, "sg_put": -0.200, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": -0.150, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.750, "sg_put": -0.050, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.5 }
+      }
+    },
+    {
+      "name": "Davis Thompson", "rank": 89, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.450, "sg_ott": 0.500, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 23.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.500, "sg_ott": 0.550, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.600, "sg_ott": 0.650, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 24.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Vincent Whaley", "rank": 90, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.5 }
+      }
+    },
+    {
+      "name": "Kevin Yu", "rank": 91, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": -0.500, "sg_ott": -0.200, "sg_put": 1.600, "sg_arg": -0.300, "bob_pct": 22.0, "bogey_pct": 14.8 },
+        "12": { "sg_app": -0.520, "sg_ott": -0.150, "sg_put": 1.650, "sg_arg": -0.350, "bob_pct": 22.5, "bogey_pct": 14.5 },
+        "4":  { "sg_app": -0.420, "sg_ott": -0.050, "sg_put": 1.750, "sg_arg": -0.250, "bob_pct": 23.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "David Puig", "rank": 92, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 22.0, "bogey_pct": 16.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.550, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 22.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 15.2 }
+      }
+    },
+    {
+      "name": "Jon Rahm", "rank": 93, "course_sg": 1.95,
+      "stats": {
+        "24": { "sg_app": 0.650, "sg_ott": 1.000, "sg_put": 0.900, "sg_arg": -0.100, "bob_pct": 25.0, "bogey_pct": 12.0 },
+        "12": { "sg_app": 0.700, "sg_ott": 1.050, "sg_put": 0.980, "sg_arg": -0.100, "bob_pct": 25.5, "bogey_pct": 11.8 },
+        "4":  { "sg_app": 0.800, "sg_ott": 1.150, "sg_put": 1.100, "sg_arg": 0.000, "bob_pct": 26.5, "bogey_pct": 11.2 }
+      }
+    },
+    {
+      "name": "Thorbjorn Olesen", "rank": 94, "course_sg": 0.90,
+      "stats": {
+        "24": { "sg_app": 1.200, "sg_ott": 0.350, "sg_put": -0.500, "sg_arg": 0.400, "bob_pct": 21.5, "bogey_pct": 15.0 },
+        "12": { "sg_app": 1.250, "sg_ott": 0.380, "sg_put": -0.450, "sg_arg": 0.420, "bob_pct": 22.0, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 1.350, "sg_ott": 0.450, "sg_put": -0.350, "sg_arg": 0.500, "bob_pct": 23.0, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Jordan Smith", "rank": 95, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.500, "sg_put": 0.000, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 0.050, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 0.150, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Pierceson Coody", "rank": 96, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.400, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 21.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 1.250, "sg_ott": 0.850, "sg_put": 1.550, "sg_arg": 0.500, "bob_pct": 24.5, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Chris Kirk", "rank": 97, "course_sg": 0.65,
+      "stats": {
+        "24": { "sg_app": 0.580, "sg_ott": -0.420, "sg_put": -0.400, "sg_arg": 0.470, "bob_pct": 19.5, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.620, "sg_ott": -0.380, "sg_put": -0.380, "sg_arg": 0.500, "bob_pct": 20.0, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.700, "sg_ott": -0.300, "sg_put": -0.300, "sg_arg": 0.580, "bob_pct": 21.0, "bogey_pct": 12.8 }
+      }
+    },
+    {
+      "name": "John Parry", "rank": 98, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 18.0, "bogey_pct": 16.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 18.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 19.5, "bogey_pct": 15.2 }
+      }
+    },
+    {
+      "name": "Matt Wallace", "rank": 99, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": -0.400, "sg_ott": 0.400, "sg_put": 0.000, "sg_arg": 2.200, "bob_pct": 21.0, "bogey_pct": 14.8 },
+        "12": { "sg_app": -0.400, "sg_ott": 0.400, "sg_put": 0.050, "sg_arg": 2.300, "bob_pct": 21.5, "bogey_pct": 14.5 },
+        "4":  { "sg_app": -0.350, "sg_ott": 0.500, "sg_put": 0.150, "sg_arg": 2.400, "bob_pct": 22.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Tom McKibbin", "rank": 100, "course_sg": 0.80,
+      "stats": {
+        "24": { "sg_app": 0.050, "sg_ott": 0.300, "sg_put": 0.300, "sg_arg": -0.200, "bob_pct": 20.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.100, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": -0.200, "bob_pct": 20.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.200, "sg_ott": 0.450, "sg_put": 0.450, "sg_arg": -0.150, "bob_pct": 21.5, "bogey_pct": 14.2 }
       }
     }
   ]
-}
+},
+    {
+      "name": "Rasmus Hojgaard", "rank": 101, "course_sg": 0.85,
+      "stats": {
+        "24": { "sg_app": -0.300, "sg_ott": 0.600, "sg_put": 0.300, "sg_arg": 0.500, "bob_pct": 22.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": -0.350, "sg_ott": 0.650, "sg_put": 0.350, "sg_arg": 0.550, "bob_pct": 22.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": -0.250, "sg_ott": 0.750, "sg_put": 0.450, "sg_arg": 0.650, "bob_pct": 23.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Sami Valimaki", "rank": 102, "course_sg": 0.30,
+      "stats": {
+        "24": { "sg_app": 0.100, "sg_ott": 0.300, "sg_put": 2.200, "sg_arg": 0.100, "bob_pct": 24.5, "bogey_pct": 17.5 },
+        "12": { "sg_app": 0.150, "sg_ott": 0.350, "sg_put": 2.300, "sg_arg": 0.150, "bob_pct": 25.0, "bogey_pct": 17.2 },
+        "4":  { "sg_app": 0.250, "sg_ott": 0.450, "sg_put": 2.500, "sg_arg": 0.250, "bob_pct": 26.0, "bogey_pct": 16.5 }
+      }
+    },
+    {
+      "name": "Kurt Kitayama", "rank": 103, "course_sg": 0.90,
+      "stats": {
+        "24": { "sg_app": 0.700, "sg_ott": 1.000, "sg_put": -0.100, "sg_arg": 0.200, "bob_pct": 20.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.750, "sg_ott": 1.050, "sg_put": -0.050, "sg_arg": 0.250, "bob_pct": 20.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.850, "sg_ott": 1.150, "sg_put": 0.100, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Ryan Fox", "rank": 104, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.600, "sg_ott": 0.400, "sg_put": -0.200, "sg_arg": 0.800, "bob_pct": 21.0, "bogey_pct": 15.2 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.450, "sg_put": -0.150, "sg_arg": 0.850, "bob_pct": 21.5, "bogey_pct": 15.0 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.550, "sg_put": 0.050, "sg_arg": 0.950, "bob_pct": 22.5, "bogey_pct": 14.5 }
+      }
+    },
+    {
+      "name": "Taylor Pendrith", "rank": 105, "course_sg": 1.00,
+      "stats": {
+        "24": { "sg_app": 0.700, "sg_ott": 1.200, "sg_put": 0.200, "sg_arg": 0.400, "bob_pct": 24.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.750, "sg_ott": 1.250, "sg_put": 0.250, "sg_arg": 0.450, "bob_pct": 24.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.850, "sg_ott": 1.350, "sg_put": 0.350, "sg_arg": 0.550, "bob_pct": 25.5, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Rasmus Neergaard-Petersen", "rank": 106, "course_sg": 0.85,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 19.5, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.0, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Daniel Berger", "rank": 107, "course_sg": 0.90,
+      "stats": {
+        "24": { "sg_app": 1.000, "sg_ott": 1.000, "sg_put": -0.500, "sg_arg": -0.100, "bob_pct": 21.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 1.050, "sg_ott": 1.050, "sg_put": -0.450, "sg_arg": -0.050, "bob_pct": 21.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 1.150, "sg_ott": 1.150, "sg_put": -0.350, "sg_arg": 0.050, "bob_pct": 22.5, "bogey_pct": 12.8 }
+      }
+    },
+    {
+      "name": "Jacob Bridgeman", "rank": 108, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.400, "sg_arg": 0.200, "bob_pct": 26.0, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 26.5, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 27.5, "bogey_pct": 14.8 }
+      }
+    },
+    {
+      "name": "Billy Horschel", "rank": 109, "course_sg": 0.95,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.250, "sg_put": 0.600, "sg_arg": 0.350, "bob_pct": 21.0, "bogey_pct": 13.8 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.300, "sg_put": 0.650, "sg_arg": 0.400, "bob_pct": 21.5, "bogey_pct": 13.5 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.400, "sg_put": 0.750, "sg_arg": 0.500, "bob_pct": 22.5, "bogey_pct": 13.0 }
+      }
+    },
+    {
+      "name": "Nicolas Echavarria", "rank": 110, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 1.000, "sg_ott": 0.800, "sg_put": 0.500, "sg_arg": -1.500, "bob_pct": 21.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 1.050, "sg_ott": 0.850, "sg_put": 0.550, "sg_arg": -1.450, "bob_pct": 21.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 1.150, "sg_ott": 0.950, "sg_put": 0.650, "sg_arg": -1.350, "bob_pct": 22.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Thomas Detry", "rank": 111, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.500, "sg_put": 1.000, "sg_arg": 0.200, "bob_pct": 22.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.550, "sg_put": 1.050, "sg_arg": 0.250, "bob_pct": 22.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 1.150, "sg_arg": 0.350, "bob_pct": 23.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Garrick Higgo", "rank": 112, "course_sg": 0.80,
+      "stats": {
+        "24": { "sg_app": -0.400, "sg_ott": -0.100, "sg_put": 1.500, "sg_arg": -0.700, "bob_pct": 20.0, "bogey_pct": 16.5 },
+        "12": { "sg_app": -0.350, "sg_ott": -0.050, "sg_put": 1.550, "sg_arg": -0.650, "bob_pct": 20.5, "bogey_pct": 16.2 },
+        "4":  { "sg_app": -0.250, "sg_ott": 0.050, "sg_put": 1.650, "sg_arg": -0.550, "bob_pct": 21.5, "bogey_pct": 15.8 }
+      }
+    },
+    {
+      "name": "Cameron Tringale", "rank": 113, "course_sg": 0.95,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.400, "sg_arg": 0.200, "bob_pct": 19.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 19.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.550, "sg_arg": 0.350, "bob_pct": 20.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Daniel Brown", "rank": 114, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 18.0, "bogey_pct": 16.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 18.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 19.5, "bogey_pct": 15.2 }
+      }
+    },
+    {
+      "name": "Haotong Li", "rank": 115, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.000, "bob_pct": 18.0, "bogey_pct": 17.5 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.050, "bob_pct": 18.5, "bogey_pct": 17.2 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 16.5 }
+      }
+    },
+    {
+      "name": "Bud Cauley", "rank": 116, "course_sg": 0.65,
+      "stats": {
+        "24": { "sg_app": 0.500, "sg_ott": 0.100, "sg_put": 0.200, "sg_arg": 0.300, "bob_pct": 19.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.150, "sg_put": 0.250, "sg_arg": 0.350, "bob_pct": 19.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.450, "bob_pct": 20.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Rico Hoey", "rank": 117, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.600, "sg_put": -0.900, "sg_arg": 0.000, "bob_pct": 20.0, "bogey_pct": 16.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.650, "sg_put": -0.850, "sg_arg": 0.050, "bob_pct": 20.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.750, "sg_put": -0.750, "sg_arg": 0.150, "bob_pct": 21.5, "bogey_pct": 15.2 }
+      }
+    },
+    {
+      "name": "Emiliano Grillo", "rank": 118, "course_sg": 0.45,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.000, "sg_put": 0.100, "sg_arg": -0.400, "bob_pct": 19.0, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.050, "sg_put": 0.150, "sg_arg": -0.350, "bob_pct": 19.5, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.150, "sg_put": 0.250, "sg_arg": -0.250, "bob_pct": 20.5, "bogey_pct": 12.2 }
+      }
+    },
+    {
+      "name": "Aldrich Potgieter", "rank": 119, "course_sg": 0.30,
+      "stats": {
+        "24": { "sg_app": -0.300, "sg_ott": 1.500, "sg_put": -1.900, "sg_arg": -0.900, "bob_pct": 27.0, "bogey_pct": 19.0 },
+        "12": { "sg_app": -0.250, "sg_ott": 1.550, "sg_put": -1.850, "sg_arg": -0.850, "bob_pct": 27.5, "bogey_pct": 18.8 },
+        "4":  { "sg_app": -0.150, "sg_ott": 1.650, "sg_put": -1.750, "sg_arg": -0.750, "bob_pct": 28.5, "bogey_pct": 18.2 }
+      }
+    },
+    {
+      "name": "Carlos Ortiz", "rank": 120, "course_sg": 0.90,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Robert MacIntyre", "rank": 121, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.700, "sg_arg": 0.000, "bob_pct": 23.0, "bogey_pct": 16.2 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.750, "sg_arg": 0.050, "bob_pct": 23.5, "bogey_pct": 15.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.850, "sg_arg": 0.150, "bob_pct": 24.5, "bogey_pct": 15.0 }
+      }
+    },
+    {
+      "name": "Alex Noren", "rank": 122, "course_sg": 0.85,
+      "stats": {
+        "24": { "sg_app": 1.100, "sg_ott": 0.000, "sg_put": 2.200, "sg_arg": 0.700, "bob_pct": 22.5, "bogey_pct": 12.2 },
+        "12": { "sg_app": 1.150, "sg_ott": 0.050, "sg_put": 2.250, "sg_arg": 0.750, "bob_pct": 23.0, "bogey_pct": 12.0 },
+        "4":  { "sg_app": 1.250, "sg_ott": 0.150, "sg_put": 2.350, "sg_arg": 0.850, "bob_pct": 24.0, "bogey_pct": 11.5 }
+      }
+    },
+    {
+      "name": "Aaron Rai", "rank": 123, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 1.900, "sg_ott": -0.100, "sg_put": -0.200, "sg_arg": 0.300, "bob_pct": 20.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 1.950, "sg_ott": -0.050, "sg_put": -0.150, "sg_arg": 0.350, "bob_pct": 20.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 2.050, "sg_ott": 0.050, "sg_put": -0.050, "sg_arg": 0.450, "bob_pct": 21.5, "bogey_pct": 13.0 }
+      }
+    },
+    {
+      "name": "Patrick Reed", "rank": 124, "course_sg": 0.80,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.200, "sg_put": 0.600, "sg_arg": 0.800, "bob_pct": 20.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.650, "sg_arg": 0.850, "bob_pct": 20.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.350, "sg_put": 0.750, "sg_arg": 0.950, "bob_pct": 21.5, "bogey_pct": 13.5 }
+      }
+    },
+    {
+      "name": "Bryson DeChambeau", "rank": 125, "course_sg": 1.10,
+      "stats": {
+        "24": { "sg_app": 0.100, "sg_ott": 1.600, "sg_put": 0.700, "sg_arg": 0.400, "bob_pct": 25.0, "bogey_pct": 13.8 },
+        "12": { "sg_app": 0.150, "sg_ott": 1.650, "sg_put": 0.750, "sg_arg": 0.450, "bob_pct": 25.5, "bogey_pct": 13.5 },
+        "4":  { "sg_app": 0.250, "sg_ott": 1.750, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 26.5, "bogey_pct": 12.8 }
+      }
+    },
+    {
+      "name": "Matt McCarty", "rank": 126, "course_sg": 0.75,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.200, "bob_pct": 24.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 25.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Michael Brennan", "rank": 127, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.500, "sg_ott": 1.400, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 26.0, "bogey_pct": 16.5 },
+        "12": { "sg_app": 0.550, "sg_ott": 1.450, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 26.5, "bogey_pct": 16.2 },
+        "4":  { "sg_app": 0.650, "sg_ott": 1.550, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 27.5, "bogey_pct": 15.8 }
+      }
+    },
+    {
+      "name": "Max Greyserman", "rank": 128, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.600, "sg_ott": -1.000, "sg_put": 1.300, "sg_arg": 0.500, "bob_pct": 23.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.650, "sg_ott": -0.950, "sg_put": 1.350, "sg_arg": 0.550, "bob_pct": 23.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": -0.850, "sg_put": 1.450, "sg_arg": 0.650, "bob_pct": 24.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Andrew Novak", "rank": 129, "course_sg": 0.65,
+      "stats": {
+        "24": { "sg_app": 0.500, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.300, "bob_pct": 21.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Kristoffer Reitan", "rank": 130, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.200, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 19.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.250, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 19.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 20.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Michael Kim", "rank": 131, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": -0.600, "sg_ott": -0.200, "sg_put": -0.400, "sg_arg": 1.500, "bob_pct": 19.5, "bogey_pct": 15.0 },
+        "12": { "sg_app": -0.550, "sg_ott": -0.150, "sg_put": -0.350, "sg_arg": 1.550, "bob_pct": 20.0, "bogey_pct": 14.8 },
+        "4":  { "sg_app": -0.450, "sg_ott": -0.050, "sg_put": -0.250, "sg_arg": 1.650, "bob_pct": 21.0, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Ryan Gerard", "rank": 132, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 1.300, "sg_ott": 1.000, "sg_put": -0.200, "sg_arg": 0.200, "bob_pct": 27.0, "bogey_pct": 17.5 },
+        "12": { "sg_app": 1.350, "sg_ott": 1.050, "sg_put": -0.150, "sg_arg": 0.250, "bob_pct": 27.5, "bogey_pct": 17.2 },
+        "4":  { "sg_app": 1.450, "sg_ott": 1.150, "sg_put": -0.050, "sg_arg": 0.350, "bob_pct": 28.5, "bogey_pct": 16.5 }
+      }
+    },
+    {
+      "name": "Marco Penge", "rank": 133, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 1.400, "sg_put": -1.000, "sg_arg": 0.700, "bob_pct": 22.0, "bogey_pct": 18.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 1.450, "sg_put": -0.950, "sg_arg": 0.750, "bob_pct": 22.5, "bogey_pct": 17.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 1.550, "sg_put": -0.850, "sg_arg": 0.850, "bob_pct": 23.5, "bogey_pct": 17.2 }
+      }
+    },
+    {
+      "name": "Brooks Koepka", "rank": 134, "course_sg": 1.00,
+      "stats": {
+        "24": { "sg_app": 0.850, "sg_ott": 0.950, "sg_put": 0.400, "sg_arg": 0.350, "bob_pct": 24.5, "bogey_pct": 13.0 },
+        "12": { "sg_app": 0.900, "sg_ott": 1.000, "sg_put": 0.450, "sg_arg": 0.400, "bob_pct": 25.0, "bogey_pct": 12.8 },
+        "4":  { "sg_app": 1.100, "sg_ott": 1.100, "sg_put": 0.500, "sg_arg": 0.500, "bob_pct": 26.5, "bogey_pct": 12.0 }
+      }
+    },
+    {
+      "name": "Cameron Davis", "rank": 135, "course_sg": 0.80,
+      "stats": {
+        "24": { "sg_app": 0.500, "sg_ott": 0.600, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 23.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 23.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.750, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 24.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Stephan Jaeger", "rank": 136, "course_sg": 0.75,
+      "stats": {
+        "24": { "sg_app": 0.600, "sg_ott": 0.500, "sg_put": 0.100, "sg_arg": 0.400, "bob_pct": 24.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.550, "sg_put": 0.150, "sg_arg": 0.450, "bob_pct": 24.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.650, "sg_put": 0.250, "sg_arg": 0.550, "bob_pct": 25.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Adam Svensson", "rank": 137, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.700, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 22.0, "bogey_pct": 13.5 },
+        "12": { "sg_app": 0.750, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 22.5, "bogey_pct": 13.2 },
+        "4":  { "sg_app": 0.850, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 12.8 }
+      }
+    },
+    {
+      "name": "Brendan Steele", "rank": 138, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.600, "sg_ott": 0.700, "sg_put": -0.400, "sg_arg": 0.000, "bob_pct": 21.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.750, "sg_put": -0.350, "sg_arg": 0.050, "bob_pct": 21.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.850, "sg_put": -0.250, "sg_arg": 0.150, "bob_pct": 22.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Chesson Hadley", "rank": 139, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.100, "sg_put": 0.500, "sg_arg": 0.100, "bob_pct": 21.5, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.150, "sg_put": 0.550, "sg_arg": 0.150, "bob_pct": 22.0, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.250, "sg_put": 0.650, "sg_arg": 0.250, "bob_pct": 23.0, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Troy Merritt", "rank": 140, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.000, "sg_put": 0.600, "sg_arg": 0.200, "bob_pct": 20.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.050, "sg_put": 0.650, "sg_arg": 0.250, "bob_pct": 21.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.150, "sg_put": 0.750, "sg_arg": 0.350, "bob_pct": 22.0, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Austin Eckroat", "rank": 141, "course_sg": 0.65,
+      "stats": {
+        "24": { "sg_app": 0.500, "sg_ott": 0.600, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 22.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.650, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 22.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.750, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Ben Griffin", "rank": 142, "course_sg": 0.70,
+      "stats": {
+        "24": { "sg_app": 0.600, "sg_ott": 0.200, "sg_put": 0.800, "sg_arg": 0.500, "bob_pct": 22.5, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.850, "sg_arg": 0.550, "bob_pct": 23.0, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.750, "sg_ott": 0.350, "sg_put": 0.950, "sg_arg": 0.650, "bob_pct": 24.0, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Brandon Wu", "rank": 143, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.400, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 21.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 22.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.550, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 23.0, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Peter Malnati", "rank": 144, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": -0.200, "sg_put": 0.800, "sg_arg": 0.300, "bob_pct": 21.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.350, "sg_ott": -0.150, "sg_put": 0.850, "sg_arg": 0.350, "bob_pct": 21.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.450, "sg_ott": -0.050, "sg_put": 0.950, "sg_arg": 0.450, "bob_pct": 22.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Tyler Duncan", "rank": 145, "course_sg": 0.40,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.300, "sg_put": 0.200, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 14.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 13.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.450, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 13.2 }
+      }
+    },
+    {
+      "name": "Doc Redman", "rank": 146, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.500, "sg_ott": 0.100, "sg_put": 0.000, "sg_arg": 0.100, "bob_pct": 20.5, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.550, "sg_ott": 0.150, "sg_put": 0.050, "sg_arg": 0.150, "bob_pct": 21.0, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.650, "sg_ott": 0.250, "sg_put": 0.150, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Joseph Bramlett", "rank": 147, "course_sg": 0.60,
+      "stats": {
+        "24": { "sg_app": 0.400, "sg_ott": 0.800, "sg_put": -0.300, "sg_arg": 0.100, "bob_pct": 22.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.450, "sg_ott": 0.850, "sg_put": -0.250, "sg_arg": 0.150, "bob_pct": 22.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.550, "sg_ott": 0.950, "sg_put": -0.150, "sg_arg": 0.250, "bob_pct": 23.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Carson Young", "rank": 148, "course_sg": 0.50,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.300, "sg_arg": 0.200, "bob_pct": 21.0, "bogey_pct": 14.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.350, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.450, "sg_arg": 0.350, "bob_pct": 22.5, "bogey_pct": 13.8 }
+      }
+    },
+    {
+      "name": "Ben Taylor", "rank": 149, "course_sg": 0.40,
+      "stats": {
+        "24": { "sg_app": 0.200, "sg_ott": 0.100, "sg_put": 0.300, "sg_arg": 0.100, "bob_pct": 20.0, "bogey_pct": 15.0 },
+        "12": { "sg_app": 0.250, "sg_ott": 0.150, "sg_put": 0.350, "sg_arg": 0.150, "bob_pct": 20.5, "bogey_pct": 14.8 },
+        "4":  { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.450, "sg_arg": 0.250, "bob_pct": 21.5, "bogey_pct": 14.2 }
+      }
+    },
+    {
+      "name": "Zecheng Dou", "rank": 150, "course_sg": 0.40,
+      "stats": {
+        "24": { "sg_app": 0.300, "sg_ott": 0.200, "sg_put": 0.100, "sg_arg": 0.100, "bob_pct": 20.5, "bogey_pct": 15.5 },
+        "12": { "sg_app": 0.350, "sg_ott": 0.250, "sg_put": 0.150, "sg_arg": 0.150, "bob_pct": 21.0, "bogey_pct": 15.2 },
+        "4":  { "sg_app": 0.450, "sg_ott": 0.350, "sg_put": 0.250, "sg_arg": 0.250, "bob_pct": 22.0, "bogey_pct": 14.8 }
+      }
+    }
